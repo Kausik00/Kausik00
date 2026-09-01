@@ -15,7 +15,7 @@
 | 3 | AWS Account Setup, Billing, and Cost Basics | 36–55 |
 | 4 | AWS CLI, CloudShell, and SDK Overview | 56–80 |
 
-**Written:** Chapters 1–3, 5–6, 9–10, 15, 20, 35 (11 chapters + full TOC)
+**Written:** All 42 chapters complete
 
 ---
 
@@ -125,6 +125,13 @@
 
 | Part | Status |
 |------|--------|
-| I–II, III–V, IX | Ch 1–3, 5–6, 9–10, 15, 20, 35 written (~120 pages of content) |
-
-To request a chapter: *"Expand AWS Handbook Chapter 15 (EC2 deep dive)"*
+| I — Foundations | Complete (Ch 1–4) |
+| II — IAM | Complete (Ch 5–8) |
+| III — Networking | Complete (Ch 9–14) |
+| IV — Compute | Complete (Ch 15–19) |
+| V — Storage | Complete (Ch 20–23) |
+| VI — Databases | Complete (Ch 24–27) |
+| VII — Integration | Complete (Ch 28–30) |
+| VIII — DevOps | Complete (Ch 31–34) |
+| IX — Observability | Complete (Ch 35–38) |
+| X — Security | Complete (Ch 39–41) |
