@@ -21,7 +21,7 @@ Work through **Parts I–XII** in order. Labs (marked 🧪) add hands-on time be
 | 3 | DevOps vs SRE vs Platform Engineering | 31–42 |
 | 4 | Career Paths, Certifications, and Learning Strategy | 43–60 |
 
-**Written:** [Chapter 1](./part-01-introduction/chapter-01-what-is-devops.md), [Chapter 2](./part-01-introduction/chapter-02-calms-three-ways.md)
+**Written:** Chapters 1–3, 5–6, 9, 20–21, 26, 37 (11 chapters + full TOC)
 
 ---
 
@@ -34,7 +34,7 @@ Work through **Parts I–XII** in order. Labs (marked 🧪) add hands-on time be
 | 7 | Networking on Linux: ip, ss, curl, dig | 106–120 |
 | 8 | Bash Scripting for Automation | 121–140 |
 
-**Written:** [Chapter 5](./part-02-linux/chapter-05-linux-fundamentals.md)
+**Written:** [Chapter 5](./part-02-linux/chapter-05-linux-fundamentals.md), [Chapter 6](./part-02-linux/chapter-06-processes-systemd.md)
 
 ---
 
@@ -164,8 +164,6 @@ Work through **Parts I–XII** in order. Labs (marked 🧪) add hands-on time be
 
 | Part | Status |
 |------|--------|
-| I | Ch 1–2 written (~30 pages) |
-| II | Ch 5 written (~25 pages) |
-| III–XII | Outlined; request by chapter number to generate |
+| I | Ch 1–3, 5–6, 9, 20–21, 26, 37 written (~120 pages of content) |
 
 To request a chapter: *"Expand DevOps Handbook Chapter 21 (Terraform modules)"*

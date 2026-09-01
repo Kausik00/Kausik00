@@ -15,7 +15,7 @@
 | 3 | AWS Account Setup, Billing, and Cost Basics | 36–55 |
 | 4 | AWS CLI, CloudShell, and SDK Overview | 56–80 |
 
-**Written:** [Chapter 1](./part-01-foundations/chapter-01-introduction-aws.md), [Chapter 2](./part-01-foundations/chapter-02-global-infrastructure.md)
+**Written:** Chapters 1–3, 5–6, 9–10, 15, 20, 35 (11 chapters + full TOC)
 
 ---
 
@@ -125,8 +125,6 @@
 
 | Part | Status |
 |------|--------|
-| I | Ch 1–2 written (~35 pages) |
-| II | Ch 5 written (~25 pages) |
-| III–X | Outlined; request by chapter number |
+| I–II, III–V, IX | Ch 1–3, 5–6, 9–10, 15, 20, 35 written (~120 pages of content) |
 
 To request a chapter: *"Expand AWS Handbook Chapter 15 (EC2 deep dive)"*

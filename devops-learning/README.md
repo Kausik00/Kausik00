@@ -15,8 +15,8 @@ Pre-built PDFs are in the [`pdf/`](./pdf/) folder:
 
 | PDF | Description |
 |-----|-------------|
-| [devops-handbook.pdf](./pdf/devops-handbook.pdf) | DevOps handbook (TOC + written chapters) |
-| [aws-handbook.pdf](./pdf/aws-handbook.pdf) | AWS handbook (TOC + written chapters) |
+| [devops-handbook.pdf](./pdf/devops-handbook.pdf) | DevOps handbook — 11 chapters + full TOC |
+| [aws-handbook.pdf](./pdf/aws-handbook.pdf) | AWS handbook — 11 chapters + full TOC |
 | [devops-curriculum.pdf](./pdf/devops-curriculum.pdf) | DevOps tools & concepts reference |
 | [aws-curriculum.pdf](./pdf/aws-curriculum.pdf) | AWS services reference |
 | [devops-aws-complete-guide.pdf](./pdf/devops-aws-complete-guide.pdf) | All content in one PDF |
