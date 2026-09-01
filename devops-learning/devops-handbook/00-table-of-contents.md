@@ -21,9 +21,7 @@ Work through **Parts I–XII** in order. Labs (marked 🧪) add hands-on time be
 | 3 | DevOps vs SRE vs Platform Engineering | 31–42 |
 | 4 | Career Paths, Certifications, and Learning Strategy | 43–60 |
 
-**Written:** [Chapter 4](./part-01-introduction/chapter-04-career-paths-certifications.md)
-
-**Written:** Chapters 1–4, 5–8, 9–11, 12–19, 20–21, 26, 37 (24 chapters + full TOC)
+**Written:** [Chapters 1–4](./part-01-introduction/chapter-01-what-is-devops.md) (Introduction complete)
 
 ---
 
@@ -172,11 +170,17 @@ Work through **Parts I–XII** in order. Labs (marked 🧪) add hands-on time be
 
 | Part | Status |
 |------|--------|
-| I | Ch 1–4 complete |
-| II | Ch 5–8 complete |
-| III | Ch 9–11 complete |
-| IV | Ch 12–15 complete |
-| V | Ch 16–19 complete |
-| VI–XII | Ch 20–21, 26, 37 partial (~remaining chapters) |
+| I | ✅ Ch 1–4 complete |
+| II | ✅ Ch 5–8 complete |
+| III | ✅ Ch 9–11 complete |
+| IV | ✅ Ch 12–15 complete |
+| V | ✅ Ch 16–19 complete |
+| VI | ✅ Ch 20–25 complete |
+| VII | ✅ Ch 26–30 complete |
+| VIII | ✅ Ch 31–36 complete |
+| IX | ✅ Ch 37–42 complete |
+| X | ✅ Ch 43–48 complete |
+| XI | ✅ Ch 49–54 complete |
+| XII | ✅ Ch 55–60 complete |
 
-To request a chapter: *"Expand DevOps Handbook Chapter 21 (Terraform modules)"*
+**All 60 chapters written with in-depth content.**

@@ -10,76 +10,64 @@ mkdir -p "$OUT"
 PANDOC_OPTS=(
   --pdf-engine=wkhtmltopdf
   --pdf-engine-opt=--enable-local-file-access
-  -V margin-top=20mm
-  -V margin-bottom=20mm
-  -V margin-left=18mm
-  -V margin-right=18mm
+  -V margin-top=18mm
+  -V margin-bottom=18mm
+  -V margin-left=16mm
+  -V margin-right=16mm
   --css="$CSS"
   --toc
-  --toc-depth=3
+  --toc-depth=2
   --number-sections
   -V documentclass=article
 )
+
+# Collect chapter files sorted numerically (chapter-01, chapter-02, ... chapter-60)
+collect_chapters() {
+  local handbook_dir="$1"
+  find "$handbook_dir" -name 'chapter-*.md' -type f | sort -t'-' -k2 -n
+}
 
 build_pdf() {
   local name="$1"
   local title="$2"
   shift 2
-  echo "Building $name ..."
+  echo "Building $name ($(echo "$#" | tr -d ' ') files) ..."
   pandoc "$@" -o "$OUT/$name" "${PANDOC_OPTS[@]}" --metadata title="$title"
-  echo "  -> $OUT/$name"
+  local size
+  size=$(du -h "$OUT/$name" | cut -f1)
+  echo "  -> $OUT/$name ($size)"
 }
+
+DEVOPS_TOC="$ROOT/devops-handbook/00-table-of-contents.md"
+AWS_TOC="$ROOT/aws-handbook/00-table-of-contents.md"
+
+mapfile -t DEVOPS_CHAPTERS < <(collect_chapters "$ROOT/devops-handbook")
+mapfile -t AWS_CHAPTERS < <(collect_chapters "$ROOT/aws-handbook")
+
+echo "DevOps chapters found: ${#DEVOPS_CHAPTERS[@]}"
+echo "AWS chapters found: ${#AWS_CHAPTERS[@]}"
 
 # Curricula
 build_pdf "devops-curriculum.pdf" "DevOps Curriculum — Tools & Concepts" \
-  "$ROOT/README.md" \
-  "$ROOT/curriculum-devops.md"
+  "$ROOT/README.md" "$ROOT/curriculum-devops.md"
 
 build_pdf "aws-curriculum.pdf" "AWS Cloud Curriculum — Services & Tools" \
-  "$ROOT/README.md" \
-  "$ROOT/curriculum-aws.md"
+  "$ROOT/README.md" "$ROOT/curriculum-aws.md"
 
-# DevOps Handbook — all written chapters
-DEVOPS_CHAPTERS=(
-  "$ROOT/devops-handbook/00-table-of-contents.md"
-  "$ROOT/devops-handbook/part-01-introduction/chapter-01-what-is-devops.md"
-  "$ROOT/devops-handbook/part-01-introduction/chapter-02-calms-three-ways.md"
-  "$ROOT/devops-handbook/part-01-introduction/chapter-03-sre-platform-engineering.md"
-  "$ROOT/devops-handbook/part-02-linux/chapter-05-linux-fundamentals.md"
-  "$ROOT/devops-handbook/part-02-linux/chapter-06-processes-systemd.md"
-  "$ROOT/devops-handbook/part-03-git/chapter-09-git-internals.md"
-  "$ROOT/devops-handbook/part-06-iac/chapter-20-iac-principles.md"
-  "$ROOT/devops-handbook/part-06-iac/chapter-21-terraform-fundamentals.md"
-  "$ROOT/devops-handbook/part-07-containers/chapter-26-docker-fundamentals.md"
-  "$ROOT/devops-handbook/part-09-cicd/chapter-37-cicd-pipeline-design.md"
-)
+# Full handbooks
+build_pdf "devops-handbook.pdf" "DevOps Handbook — Complete Edition" \
+  "$DEVOPS_TOC" "${DEVOPS_CHAPTERS[@]}"
 
-build_pdf "devops-handbook.pdf" "DevOps Handbook" "${DEVOPS_CHAPTERS[@]}"
+build_pdf "aws-handbook.pdf" "AWS Cloud Handbook — Complete Edition" \
+  "$AWS_TOC" "${AWS_CHAPTERS[@]}"
 
-# AWS Handbook — all written chapters
-AWS_CHAPTERS=(
-  "$ROOT/aws-handbook/00-table-of-contents.md"
-  "$ROOT/aws-handbook/part-01-foundations/chapter-01-introduction-aws.md"
-  "$ROOT/aws-handbook/part-01-foundations/chapter-02-global-infrastructure.md"
-  "$ROOT/aws-handbook/part-01-foundations/chapter-03-account-billing.md"
-  "$ROOT/aws-handbook/part-02-iam/chapter-05-iam-fundamentals.md"
-  "$ROOT/aws-handbook/part-02-iam/chapter-06-iam-best-practices.md"
-  "$ROOT/aws-handbook/part-03-networking/chapter-09-vpc-fundamentals.md"
-  "$ROOT/aws-handbook/part-03-networking/chapter-10-nat-routing.md"
-  "$ROOT/aws-handbook/part-04-compute/chapter-15-ec2-fundamentals.md"
-  "$ROOT/aws-handbook/part-05-storage/chapter-20-s3-fundamentals.md"
-  "$ROOT/aws-handbook/part-09-observability/chapter-35-cloudwatch-fundamentals.md"
-)
-
-build_pdf "aws-handbook.pdf" "AWS Cloud Handbook" "${AWS_CHAPTERS[@]}"
-
-# Combined edition
+# Combined mega-guide
 build_pdf "devops-aws-complete-guide.pdf" "DevOps & AWS Complete Learning Guide" \
   "$ROOT/README.md" \
   "$ROOT/curriculum-devops.md" \
   "$ROOT/curriculum-aws.md" \
-  "${DEVOPS_CHAPTERS[@]}" \
-  "${AWS_CHAPTERS[@]}"
+  "$DEVOPS_TOC" "${DEVOPS_CHAPTERS[@]}" \
+  "$AWS_TOC" "${AWS_CHAPTERS[@]}"
 
 echo ""
 echo "PDF build complete. Files in: $OUT"
