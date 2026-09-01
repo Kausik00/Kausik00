@@ -1,0 +1,103 @@
+body {
+  font-family: "DejaVu Sans", Arial, Helvetica, sans-serif;
+  font-size: 11pt;
+  line-height: 1.5;
+  color: #1a1a1a;
+  max-width: 100%;
+}
+
+h1 {
+  color: #0f3460;
+  border-bottom: 2px solid #0f3460;
+  padding-bottom: 0.3em;
+  page-break-before: always;
+  margin-top: 0;
+}
+
+h1:first-of-type {
+  page-break-before: avoid;
+}
+
+h2 {
+  color: #16213e;
+  margin-top: 1.4em;
+}
+
+h3 {
+  color: #1a1a2e;
+}
+
+code {
+  font-family: "DejaVu Sans Mono", Consolas, monospace;
+  background-color: #f4f4f4;
+  padding: 0.1em 0.3em;
+  font-size: 0.9em;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 0.8em;
+  font-size: 0.85em;
+  line-height: 1.4;
+  overflow-x: auto;
+}
+
+pre code {
+  background: none;
+  padding: 0;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1em 0;
+  font-size: 0.95em;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 0.4em 0.6em;
+  text-align: left;
+}
+
+th {
+  background-color: #e8eef5;
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background-color: #fafafa;
+}
+
+blockquote {
+  border-left: 4px solid #0f3460;
+  margin-left: 0;
+  padding-left: 1em;
+  color: #444;
+  font-style: italic;
+}
+
+a {
+  color: #0f3460;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 2em 0;
+}
+
+#TOC {
+  page-break-after: always;
+}
+
+#TOC ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+#TOC > ul > li > a {
+  font-weight: bold;
+}

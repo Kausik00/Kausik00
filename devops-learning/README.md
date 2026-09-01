@@ -9,7 +9,27 @@ A structured path from zero to advanced, plus two handbook series:
 | [DevOps Handbook](./devops-handbook/00-table-of-contents.md) | ~1,200 pages | TOC + Part I–II written; Parts III–XII outlined |
 | [AWS Handbook](./aws-handbook/00-table-of-contents.md) | ~800 pages | TOC + Part I–II written; Parts III–X outlined |
 
-## How to use this repo
+## Download PDFs
+
+Pre-built PDFs are in the [`pdf/`](./pdf/) folder:
+
+| PDF | Description |
+|-----|-------------|
+| [devops-handbook.pdf](./pdf/devops-handbook.pdf) | DevOps handbook (TOC + written chapters) |
+| [aws-handbook.pdf](./pdf/aws-handbook.pdf) | AWS handbook (TOC + written chapters) |
+| [devops-curriculum.pdf](./pdf/devops-curriculum.pdf) | DevOps tools & concepts reference |
+| [aws-curriculum.pdf](./pdf/aws-curriculum.pdf) | AWS services reference |
+| [devops-aws-complete-guide.pdf](./pdf/devops-aws-complete-guide.pdf) | All content in one PDF |
+
+**Rebuild PDFs** after editing markdown:
+
+```bash
+./scripts/build-pdfs.sh
+```
+
+Requires `pandoc` and `wkhtmltopdf`.
+
+---
 
 1. **Start with the curricula** — they list every tool, concept, and AWS service in learning order.
 2. **Follow the handbook TOCs** — each chapter has a page budget; work through sequentially.
