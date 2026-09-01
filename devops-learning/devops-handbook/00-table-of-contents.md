@@ -21,7 +21,9 @@ Work through **Parts I–XII** in order. Labs (marked 🧪) add hands-on time be
 | 3 | DevOps vs SRE vs Platform Engineering | 31–42 |
 | 4 | Career Paths, Certifications, and Learning Strategy | 43–60 |
 
-**Written:** Chapters 1–3, 5–6, 9, 20–21, 26, 37 (11 chapters + full TOC)
+**Written:** [Chapter 4](./part-01-introduction/chapter-04-career-paths-certifications.md)
+
+**Written:** Chapters 1–4, 5–8, 9–11, 12–19, 20–21, 26, 37 (24 chapters + full TOC)
 
 ---
 
@@ -34,7 +36,7 @@ Work through **Parts I–XII** in order. Labs (marked 🧪) add hands-on time be
 | 7 | Networking on Linux: ip, ss, curl, dig | 106–120 |
 | 8 | Bash Scripting for Automation | 121–140 |
 
-**Written:** [Chapter 5](./part-02-linux/chapter-05-linux-fundamentals.md), [Chapter 6](./part-02-linux/chapter-06-processes-systemd.md)
+**Written:** [Chapter 5](./part-02-linux/chapter-05-linux-fundamentals.md), [Chapter 6](./part-02-linux/chapter-06-processes-systemd.md), [Chapter 7](./part-02-linux/chapter-07-networking-linux.md), [Chapter 8](./part-02-linux/chapter-08-bash-scripting.md)
 
 ---
 
@@ -45,6 +47,8 @@ Work through **Parts I–XII** in order. Labs (marked 🧪) add hands-on time be
 | 9 | Git Internals: Objects, Refs, and the DAG | 141–158 |
 | 10 | Branching Strategies and Code Review | 159–175 |
 | 11 | GitHub/GitLab Workflows: PRs, Issues, Actions intro | 176–200 |
+
+**Written:** [Chapter 9](./part-03-git/chapter-09-git-internals.md), [Chapter 10](./part-03-git/chapter-10-branching-code-review.md), [Chapter 11](./part-03-git/chapter-11-github-gitlab-workflows.md)
 
 ---
 
@@ -57,6 +61,8 @@ Work through **Parts I–XII** in order. Labs (marked 🧪) add hands-on time be
 | 14 | Load Balancing, Proxies, and CDN Concepts | 246–265 |
 | 15 | Cloud Networking Patterns (VPC overview) | 266–280 |
 
+**Written:** [Chapter 12](./part-04-networking/chapter-12-osi-tcpip-dns.md) through [Chapter 15](./part-04-networking/chapter-15-cloud-networking-vpc.md)
+
 ---
 
 ## Part V — Scripting & Programming (Pages 281–360)
@@ -67,6 +73,8 @@ Work through **Parts I–XII** in order. Labs (marked 🧪) add hands-on time be
 | 17 | Go for CLI Tools and Operators | 306–325 |
 | 18 | JSON/YAML, Jinja2, and Templating | 326–345 |
 | 19 | Testing Automation Scripts | 346–360 |
+
+**Written:** [Chapter 16](./part-05-scripting/chapter-16-python-devops.md) through [Chapter 19](./part-05-scripting/chapter-19-testing-automation.md)
 
 ---
 
@@ -164,6 +172,11 @@ Work through **Parts I–XII** in order. Labs (marked 🧪) add hands-on time be
 
 | Part | Status |
 |------|--------|
-| I | Ch 1–3, 5–6, 9, 20–21, 26, 37 written (~120 pages of content) |
+| I | Ch 1–4 complete |
+| II | Ch 5–8 complete |
+| III | Ch 9–11 complete |
+| IV | Ch 12–15 complete |
+| V | Ch 16–19 complete |
+| VI–XII | Ch 20–21, 26, 37 partial (~remaining chapters) |
 
 To request a chapter: *"Expand DevOps Handbook Chapter 21 (Terraform modules)"*
