@@ -169,3 +169,22 @@ Work through **Parts I–XII** in order. Labs (marked 🧪) add hands-on time be
 | III–XII | Outlined; request by chapter number to generate |
 
 To request a chapter: *"Expand DevOps Handbook Chapter 21 (Terraform modules)"*
+
+---
+
+## Part XIII — Workbooks (Chapters 61–70)
+
+In-depth practice chapters. No PDF page numbers in this listing.
+
+| Ch | Title | File |
+|----|-------|------|
+| 61 | Linux Production Troubleshooting Cookbook | [part-13-workbooks/chapter-61-linux-troubleshooting-cookbook.md](part-13-workbooks/chapter-61-linux-troubleshooting-cookbook.md) |
+| 62 | Networking Packet Labs | [part-13-workbooks/chapter-62-networking-packet-labs.md](part-13-workbooks/chapter-62-networking-packet-labs.md) |
+| 63 | Git Disaster Recovery | [part-13-workbooks/chapter-63-git-disaster-recovery.md](part-13-workbooks/chapter-63-git-disaster-recovery.md) |
+| 64 | Terraform Production Patterns | [part-13-workbooks/chapter-64-terraform-production-patterns.md](part-13-workbooks/chapter-64-terraform-production-patterns.md) |
+| 65 | Ansible at Scale | [part-13-workbooks/chapter-65-ansible-at-scale.md](part-13-workbooks/chapter-65-ansible-at-scale.md) |
+| 66 | Kubernetes Troubleshooting | [part-13-workbooks/chapter-66-kubernetes-troubleshooting.md](part-13-workbooks/chapter-66-kubernetes-troubleshooting.md) |
+| 67 | Production CI/CD Patterns | [part-13-workbooks/chapter-67-production-cicd-patterns.md](part-13-workbooks/chapter-67-production-cicd-patterns.md) |
+| 68 | SLO Observability Practice | [part-13-workbooks/chapter-68-slo-observability-practice.md](part-13-workbooks/chapter-68-slo-observability-practice.md) |
+| 69 | DevSecOps Cookbook | [part-13-workbooks/chapter-69-devsecops-cookbook.md](part-13-workbooks/chapter-69-devsecops-cookbook.md) |
+| 70 | Platform Blueprints | [part-13-workbooks/chapter-70-platform-blueprints.md](part-13-workbooks/chapter-70-platform-blueprints.md) |
