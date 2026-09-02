@@ -19,7 +19,7 @@ CSS = ROOT / "scripts" / "pdf-style.css"
 CHAPTER_NAME_RE = re.compile(r"chapter-(\d+)", re.I)
 CHAPTER_HEADING_RE = re.compile(r"^#\s+(Chapter\s+\d+:\s+.+)$", re.M)
 PAGES_ITALIC_RE = re.compile(r"^\*.*Pages?\s+\d+.*\*\s*$", re.M)
-ROMAN = ["", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII"]
+ROMAN = ["", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII", "XIII", "XIV"]
 
 
 @dataclass
@@ -155,6 +155,8 @@ DEVOPS_PARTS = [
     (10, "Observability & SRE", range(43, 49)),
     (11, "Security (DevSecOps)", range(49, 55)),
     (12, "Advanced Topics", range(55, 61)),
+    (13, "Production Workbooks", range(61, 71)),
+    (14, "Reference, Exams, and Capstone Labs", range(71, 81)),
 ]
 
 AWS_PARTS = [
@@ -168,6 +170,8 @@ AWS_PARTS = [
     (8, "DevOps on AWS", range(31, 35)),
     (9, "Observability & Operations", range(35, 39)),
     (10, "Security & Compliance", range(39, 42)),
+    (11, "Production Workbooks", range(42, 52)),
+    (12, "Reference, Exams, and Capstone", range(52, 62)),
 ]
 
 
