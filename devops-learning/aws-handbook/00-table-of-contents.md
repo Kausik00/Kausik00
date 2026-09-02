@@ -121,12 +121,30 @@
 
 ---
 
+## Part XII — Reference (chapters 52–61)
+
+Chapters 42–51 are reserved. These files have no assigned page numbers.
+
+| Ch | Title | File |
+|----|-------|------|
+| 52 | CloudFormation and CDK Catalog | [chapter-52](part-12-reference/chapter-52-cloudformation-cdk-catalog.md) |
+| 53 | Multi-Account Landing Zone | [chapter-53](part-12-reference/chapter-53-multi-account-landing-zone.md) |
+| 54 | Disaster Recovery Runbooks | [chapter-54](part-12-reference/chapter-54-disaster-recovery-runbooks.md) |
+| 55 | Practice Exam — SAA | [chapter-55](part-12-reference/chapter-55-practice-exam-saa.md) |
+| 56 | Practice Exam — DevOps Professional | [chapter-56](part-12-reference/chapter-56-practice-exam-devops-pro.md) |
+| 57 | Networking Specialty Notes | [chapter-57](part-12-reference/chapter-57-networking-specialty-notes.md) |
+| 58 | Serverless Reference | [chapter-58](part-12-reference/chapter-58-serverless-reference.md) |
+| 59 | AWS Troubleshooting Cookbook | [chapter-59](part-12-reference/chapter-59-aws-troubleshooting-cookbook.md) |
+| 60 | Architecture Capstone — Multi-Tier, EKS, and Data | [chapter-60](part-12-reference/chapter-60-architecture-capstone-aws.md) |
+| 61 | AWS Interview Questions | [chapter-61](part-12-reference/chapter-61-aws-interview-questions.md) |
+
+---
+
 ## Expansion status
 
 | Part | Status |
 |------|--------|
-| I | Ch 1–2 written (~35 pages) |
-| II | Ch 5 written (~25 pages) |
-| III–X | Outlined; request by chapter number |
+| I–X | Chapters 1–41 on disk |
+| XII | Chapters 52–61 reference written |
 
 To request a chapter: *"Expand AWS Handbook Chapter 15 (EC2 deep dive)"*
