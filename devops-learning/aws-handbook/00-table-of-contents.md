@@ -121,6 +121,25 @@
 
 ---
 
+## Part XI — Production Workbooks (Chapters 42–51)
+
+These chapters are labs and cookbooks. They are not assigned estimated PDF page numbers.
+
+| Ch | Title | File |
+|----|-------|------|
+| 42 | VPC Design Cookbook | [chapter-42-vpc-design-cookbook.md](./part-11-workbooks/chapter-42-vpc-design-cookbook.md) |
+| 43 | IAM Policy Cookbook | [chapter-43-iam-policy-cookbook.md](./part-11-workbooks/chapter-43-iam-policy-cookbook.md) |
+| 44 | EC2 and Auto Scaling in Production | [chapter-44-ec2-asg-production.md](./part-11-workbooks/chapter-44-ec2-asg-production.md) |
+| 45 | Lambda Event Patterns | [chapter-45-lambda-event-patterns.md](./part-11-workbooks/chapter-45-lambda-event-patterns.md) |
+| 46 | EKS on AWS Deep Dive | [chapter-46-eks-on-aws-deep-dive.md](./part-11-workbooks/chapter-46-eks-on-aws-deep-dive.md) |
+| 47 | Data Services Cookbook (RDS, Aurora, DynamoDB, ElastiCache) | [chapter-47-data-services-cookbook.md](./part-11-workbooks/chapter-47-data-services-cookbook.md) |
+| 48 | Security Operations on AWS | [chapter-48-security-operations-aws.md](./part-11-workbooks/chapter-48-security-operations-aws.md) |
+| 49 | Cost Optimization Workbook | [chapter-49-cost-optimization-workbook.md](./part-11-workbooks/chapter-49-cost-optimization-workbook.md) |
+| 50 | Well-Architected Checklists | [chapter-50-well-architected-checklists.md](./part-11-workbooks/chapter-50-well-architected-checklists.md) |
+| 51 | AWS CLI Encyclopedia | [chapter-51-aws-cli-encyclopedia.md](./part-11-workbooks/chapter-51-aws-cli-encyclopedia.md) |
+
+---
+
 ## Expansion status
 
 | Part | Status |
@@ -128,5 +147,6 @@
 | I | Ch 1–2 written (~35 pages) |
 | II | Ch 5 written (~25 pages) |
 | III–X | Outlined; request by chapter number |
+| XI | Ch 42–51 written (workbooks; no estimated page numbers) |
 
 To request a chapter: *"Expand AWS Handbook Chapter 15 (EC2 deep dive)"*
