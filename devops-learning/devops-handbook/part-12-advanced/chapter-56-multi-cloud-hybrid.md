@@ -1,7 +1,6 @@
 # Chapter 56: Multi-Cloud and Hybrid Patterns
 
-*DevOps Handbook — Part XII, Pages 1101–1115*
-
+*DevOps Handbook — Pages 273–277 of this PDF edition*
 ---
 
 ## 56.1 Why multi-cloud and hybrid exist

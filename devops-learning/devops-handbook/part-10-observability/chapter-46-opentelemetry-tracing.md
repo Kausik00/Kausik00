@@ -1,7 +1,6 @@
 # Chapter 46: OpenTelemetry Distributed Tracing
 
-*DevOps Handbook — Part X, Pages 911–930*
-
+*DevOps Handbook — Pages 220–225 of this PDF edition*
 ---
 
 ## 46.1 The tracing problem

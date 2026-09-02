@@ -1,7 +1,6 @@
 # Chapter 19: Testing Automation Scripts
 
-*DevOps Handbook — Part V, Pages 346–360*
-
+*DevOps Handbook — Pages 84–88 of this PDF edition*
 ---
 
 ## 19.1 Why test automation code?

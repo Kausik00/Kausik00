@@ -1,7 +1,6 @@
 # Chapter 32: Kubernetes Workloads — Pod, Deployment, StatefulSet, DaemonSet
 
-*DevOps Handbook — Part VIII, Pages 606–630*
-
+*DevOps Handbook — Pages 145–150 of this PDF edition*
 ---
 
 ## 32.1 Pods — the atomic unit

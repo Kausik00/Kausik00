@@ -1,7 +1,6 @@
 # Chapter 31: Kubernetes Architecture — Control Plane and Node Components
 
-*DevOps Handbook — Part VIII, Pages 581–605*
-
+*DevOps Handbook — Pages 140–144 of this PDF edition*
 ---
 
 ## 31.1 What Kubernetes provides

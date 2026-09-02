@@ -1,7 +1,6 @@
 # Chapter 35: Helm, Kustomize, and GitOps (Argo CD)
 
-*DevOps Handbook — Part VIII, Pages 676–700*
-
+*DevOps Handbook — Pages 161–166 of this PDF edition*
 ---
 
 ## 35.1 The packaging problem

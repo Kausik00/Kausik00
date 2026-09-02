@@ -1,7 +1,6 @@
 # Chapter 59: Capstone — End-to-End Production System Design
 
-*DevOps Handbook — Part XII, Pages 1146–1180*
-
+*DevOps Handbook — Pages 287–292 of this PDF edition*
 ---
 
 ## 59.1 Capstone objectives

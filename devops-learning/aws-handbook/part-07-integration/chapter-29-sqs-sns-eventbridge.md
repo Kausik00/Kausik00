@@ -1,7 +1,6 @@
 # Chapter 29: SQS, SNS, and EventBridge
 
-*AWS Handbook — Part VII, Pages 581–605*
-
+*AWS Handbook — Pages 143–148 of this PDF edition*
 ---
 
 ## 29.1 Event-driven architecture on AWS

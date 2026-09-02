@@ -1,7 +1,6 @@
 # Chapter 8: AWS Organizations & Service Control Policies
 
-*AWS Handbook — Part II, Pages 146–160*
-
+*AWS Handbook — Pages 32–36 of this PDF edition*
 ---
 
 ## 8.1 Why AWS Organizations?

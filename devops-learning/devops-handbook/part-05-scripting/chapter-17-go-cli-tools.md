@@ -1,7 +1,6 @@
 # Chapter 17: Go for CLI Tools and Operators
 
-*DevOps Handbook — Part V, Pages 306–325*
-
+*DevOps Handbook — Pages 74–78 of this PDF edition*
 ---
 
 ## 17.1 Why Go in the DevOps toolchain

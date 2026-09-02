@@ -1,7 +1,6 @@
 # Chapter 53: Runtime Security — Falco and OPA Gatekeeper
 
-*DevOps Handbook — Part XI, Pages 1041–1060*
-
+*DevOps Handbook — Pages 258–262 of this PDF edition*
 ---
 
 ## 53.1 Defense beyond the pipeline

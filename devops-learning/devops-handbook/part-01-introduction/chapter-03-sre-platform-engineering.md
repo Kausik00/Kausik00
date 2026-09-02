@@ -1,7 +1,6 @@
 # Chapter 3: DevOps vs SRE vs Platform Engineering
 
-*DevOps Handbook — Part I, Pages 31–42*
-
+*DevOps Handbook — Pages 12–14 of this PDF edition*
 ---
 
 ## 3.1 Three related disciplines

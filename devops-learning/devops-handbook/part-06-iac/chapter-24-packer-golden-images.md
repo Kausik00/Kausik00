@@ -1,7 +1,6 @@
 # Chapter 24: Packer & Golden Images
 
-*DevOps Handbook — Part VI, Pages 451–465*
-
+*DevOps Handbook — Pages 108–112 of this PDF edition*
 ---
 
 ## 24.1 Golden images and the immutable infrastructure pattern

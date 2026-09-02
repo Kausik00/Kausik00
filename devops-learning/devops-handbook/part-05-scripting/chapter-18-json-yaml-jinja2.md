@@ -1,7 +1,6 @@
 # Chapter 18: JSON/YAML, Jinja2, and Templating
 
-*DevOps Handbook — Part V, Pages 326–345*
-
+*DevOps Handbook — Pages 79–83 of this PDF edition*
 ---
 
 ## 18.1 Structured data in DevOps

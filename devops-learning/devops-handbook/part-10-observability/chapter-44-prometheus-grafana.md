@@ -1,7 +1,6 @@
 # Chapter 44: Prometheus & Grafana Stack
 
-*DevOps Handbook — Part X, Pages 866–890*
-
+*DevOps Handbook — Pages 208–213 of this PDF edition*
 ---
 
 ## 44.1 The Prometheus ecosystem

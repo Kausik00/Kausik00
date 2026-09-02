@@ -1,7 +1,6 @@
 # Chapter 13: Route 53 — DNS Records and Routing Policies
 
-*AWS Handbook — Part III, Pages 246–265*
-
+*AWS Handbook — Pages 55–60 of this PDF edition*
 ---
 
 ## 13.1 What is Amazon Route 53?

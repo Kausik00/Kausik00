@@ -1,7 +1,6 @@
 # Chapter 21: Terraform — HCL, Providers, and Modules
 
-*DevOps Handbook — Part VI, Pages 381–410*
-
+*DevOps Handbook — Pages 92–95 of this PDF edition*
 ---
 
 ## 21.1 Terraform overview

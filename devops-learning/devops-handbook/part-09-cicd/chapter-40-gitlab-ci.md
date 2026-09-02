@@ -1,7 +1,6 @@
 # Chapter 40: GitLab CI and Multi-platform Comparison
 
-*DevOps Handbook — Part IX, Pages 791–810*
-
+*DevOps Handbook — Pages 187–192 of this PDF edition*
 ---
 
 ## 40.1 GitLab CI/CD overview

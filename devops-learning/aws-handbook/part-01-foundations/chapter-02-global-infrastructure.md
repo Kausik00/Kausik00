@@ -1,7 +1,6 @@
 # Chapter 2: AWS Global Infrastructure — Regions, AZs, and Edge
 
-*AWS Handbook — Part I, Pages 19–35*
-
+*AWS Handbook — Pages 8–10 of this PDF edition*
 ---
 
 ## 2.1 Global infrastructure overview

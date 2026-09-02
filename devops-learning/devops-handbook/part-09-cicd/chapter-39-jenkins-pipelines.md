@@ -1,7 +1,6 @@
 # Chapter 39: Jenkins Pipelines as Code
 
-*DevOps Handbook — Part IX, Pages 771–790*
-
+*DevOps Handbook — Pages 181–186 of this PDF edition*
 ---
 
 ## 39.1 Jenkins in the modern CI/CD landscape

@@ -1,7 +1,6 @@
 # Chapter 27: Container Networking, Volumes, and Security
 
-*DevOps Handbook — Part VII, Pages 506–525*
-
+*DevOps Handbook — Pages 121–125 of this PDF edition*
 ---
 
 ## 27.1 Container networking model

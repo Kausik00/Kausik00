@@ -1,7 +1,6 @@
 # Chapter 37: CI/CD Concepts and Pipeline Design
 
-*DevOps Handbook — Part IX, Pages 721–745*
-
+*DevOps Handbook — Pages 172–174 of this PDF edition*
 ---
 
 ## 37.1 Continuous Integration (CI)

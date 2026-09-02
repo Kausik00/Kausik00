@@ -1,7 +1,6 @@
 # Chapter 12: OSI Model, TCP/IP, DNS Deep Dive
 
-*DevOps Handbook — Part IV, Pages 201–225*
-
+*DevOps Handbook — Pages 50–54 of this PDF edition*
 ---
 
 ## 12.1 Why models matter during incidents

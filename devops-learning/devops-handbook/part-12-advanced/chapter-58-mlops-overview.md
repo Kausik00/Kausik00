@@ -1,7 +1,6 @@
 # Chapter 58: MLOps Overview for DevOps Engineers
 
-*DevOps Handbook — Part XII, Pages 1131–1145*
-
+*DevOps Handbook — Pages 282–286 of this PDF edition*
 ---
 
 ## 58.1 Why DevOps engineers need MLOps

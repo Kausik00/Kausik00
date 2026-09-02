@@ -1,7 +1,6 @@
 # Chapter 51: Secrets Management — Vault, SOPS, External Secrets
 
-*DevOps Handbook — Part XI, Pages 1001–1020*
-
+*DevOps Handbook — Pages 247–252 of this PDF edition*
 ---
 
 ## 51.1 The secrets problem

@@ -1,7 +1,6 @@
 # Chapter 28: API Gateway
 
-*AWS Handbook — Part VII, Pages 561–580*
-
+*AWS Handbook — Pages 137–142 of this PDF edition*
 ---
 
 ## 28.1 What is Amazon API Gateway?

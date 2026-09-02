@@ -1,7 +1,6 @@
 # Chapter 52: Supply Chain Security — SBOM, Sigstore, SLSA
 
-*DevOps Handbook — Part XI, Pages 1021–1040*
-
+*DevOps Handbook — Pages 253–257 of this PDF edition*
 ---
 
 ## 52.1 Software supply chain threats

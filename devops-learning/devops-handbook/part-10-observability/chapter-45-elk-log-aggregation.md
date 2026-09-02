@@ -1,7 +1,6 @@
 # Chapter 45: ELK/EFK Log Aggregation
 
-*DevOps Handbook — Part X, Pages 891–910*
-
+*DevOps Handbook — Pages 214–219 of this PDF edition*
 ---
 
 ## 45.1 Centralized logging rationale

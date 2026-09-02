@@ -1,7 +1,6 @@
 # Chapter 33: Kubernetes Services, Ingress, and Network Policies
 
-*DevOps Handbook — Part VIII, Pages 631–655*
-
+*DevOps Handbook — Pages 151–155 of this PDF edition*
 ---
 
 ## 33.1 Kubernetes networking model

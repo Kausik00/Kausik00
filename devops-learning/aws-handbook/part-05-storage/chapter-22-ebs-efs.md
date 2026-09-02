@@ -1,7 +1,6 @@
 # Chapter 22: EBS & EFS
 
-*AWS Handbook — Part V, Pages 446–465*
-
+*AWS Handbook — Pages 102–107 of this PDF edition*
 ---
 
 ## 22.1 Block vs file storage on AWS

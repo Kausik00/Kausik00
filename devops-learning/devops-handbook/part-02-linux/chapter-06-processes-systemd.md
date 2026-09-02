@@ -1,7 +1,6 @@
 # Chapter 6: Processes, systemd, and Service Management
 
-*DevOps Handbook — Part II, Pages 86–105*
-
+*DevOps Handbook — Pages 24–26 of this PDF edition*
 ---
 
 ## 6.1 Understanding Linux processes

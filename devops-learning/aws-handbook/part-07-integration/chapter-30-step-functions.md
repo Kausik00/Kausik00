@@ -1,7 +1,6 @@
 # Chapter 30: Step Functions Workflows
 
-*AWS Handbook — Part VII, Pages 606–620*
-
+*AWS Handbook — Pages 149–154 of this PDF edition*
 ---
 
 ## 30.1 What are Step Functions?

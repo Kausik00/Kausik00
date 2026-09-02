@@ -1,7 +1,6 @@
 # Chapter 55: Platform Engineering and Internal Developer Platforms
 
-*DevOps Handbook — Part XII, Pages 1081–1100*
-
+*DevOps Handbook — Pages 268–272 of this PDF edition*
 ---
 
 ## 55.1 From DevOps to platform engineering

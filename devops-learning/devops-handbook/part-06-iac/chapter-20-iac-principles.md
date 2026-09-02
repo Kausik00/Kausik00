@@ -1,7 +1,6 @@
 # Chapter 20: IaC Principles — State, Idempotency, and Drift
 
-*DevOps Handbook — Part VI, Pages 361–380*
-
+*DevOps Handbook — Pages 89–91 of this PDF edition*
 ---
 
 ## 20.1 What is Infrastructure as Code?

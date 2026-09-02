@@ -1,7 +1,6 @@
 # Chapter 24: RDS & Aurora
 
-*AWS Handbook — Part VI, Pages 481–505*
-
+*AWS Handbook — Pages 114–119 of this PDF edition*
 ---
 
 ## 24.1 Managed relational databases

@@ -1,7 +1,6 @@
 # Chapter 41: Deployment Strategies — Blue/Green, Canary, Feature Flags
 
-*DevOps Handbook — Part IX, Pages 811–825*
-
+*DevOps Handbook — Pages 193–197 of this PDF edition*
 ---
 
 ## 41.1 Why deployment strategy matters

@@ -1,7 +1,6 @@
 # Chapter 31: CloudFormation Deep Dive
 
-*AWS Handbook — Part VIII, Pages 621–645*
-
+*AWS Handbook — Pages 155–160 of this PDF edition*
 ---
 
 ## 31.1 Infrastructure as Code with CloudFormation

@@ -1,7 +1,6 @@
 # Chapter 43: Monitoring Fundamentals — Metrics, Logs, Traces
 
-*DevOps Handbook — Part X, Pages 841–865*
-
+*DevOps Handbook — Pages 203–207 of this PDF edition*
 ---
 
 ## 43.1 From monitoring to observability

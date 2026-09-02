@@ -1,7 +1,6 @@
 # Chapter 49: Shift-Left Security in the Pipeline
 
-*DevOps Handbook — Part XI, Pages 961–980*
-
+*DevOps Handbook — Pages 236–240 of this PDF edition*
 ---
 
 ## 49.1 DevSecOps and shift-left

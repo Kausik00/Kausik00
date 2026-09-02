@@ -1,7 +1,6 @@
 # Chapter 15: EC2 — Instance Types, AMIs, and Launch Templates
 
-*AWS Handbook — Part IV, Pages 281–305*
-
+*AWS Handbook — Pages 67–69 of this PDF edition*
 ---
 
 ## 15.1 Amazon EC2 overview

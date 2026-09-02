@@ -1,7 +1,6 @@
 # Chapter 30: Rootless Containers and Podman
 
-*DevOps Handbook — Part VII, Pages 561–580*
-
+*DevOps Handbook — Pages 136–139 of this PDF edition*
 ---
 
 ## 30.1 Why rootless containers matter

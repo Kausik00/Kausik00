@@ -1,7 +1,6 @@
 # Chapter 9: VPC Fundamentals — CIDR, Subnets, and Route Tables
 
-*AWS Handbook — Part III, Pages 161–185*
-
+*AWS Handbook — Pages 37–39 of this PDF edition*
 ---
 
 ## 9.1 What is a VPC?

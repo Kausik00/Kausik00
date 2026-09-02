@@ -1,7 +1,6 @@
 # Chapter 8: Bash Scripting for Automation
 
-*DevOps Handbook — Part II, Pages 121–140*
-
+*DevOps Handbook — Pages 32–36 of this PDF edition*
 ---
 
 ## 8.1 When bash is the right tool

@@ -1,7 +1,6 @@
 # Chapter 9: Git Internals — Objects, Refs, and the DAG
 
-*DevOps Handbook — Part III, Pages 141–158*
-
+*DevOps Handbook — Pages 37–39 of this PDF edition*
 ---
 
 ## 9.1 Git is a content-addressable filesystem

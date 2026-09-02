@@ -1,7 +1,6 @@
 # Chapter 26: ElastiCache & Caching Patterns
 
-*AWS Handbook — Part VI, Pages 526–540*
-
+*AWS Handbook — Pages 126–130 of this PDF edition*
 ---
 
 ## 26.1 Why caching?

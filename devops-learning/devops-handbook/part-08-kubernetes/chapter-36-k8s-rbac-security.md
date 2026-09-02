@@ -1,7 +1,6 @@
 # Chapter 36: Kubernetes RBAC, Pod Security, and Hardening
 
-*DevOps Handbook — Part VIII, Pages 701–720*
-
+*DevOps Handbook — Pages 167–171 of this PDF edition*
 ---
 
 ## 36.1 Defense in depth for Kubernetes

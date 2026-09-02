@@ -1,7 +1,6 @@
 # Chapter 10: Branching Strategies and Code Review
 
-*DevOps Handbook — Part III, Pages 159–175*
-
+*DevOps Handbook — Pages 40–44 of this PDF edition*
 ---
 
 ## 10.1 Branches as a collaboration contract

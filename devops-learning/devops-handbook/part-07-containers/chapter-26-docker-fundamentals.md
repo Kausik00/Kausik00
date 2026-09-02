@@ -1,7 +1,6 @@
 # Chapter 26: Docker — Images, Dockerfile, and Multi-stage Builds
 
-*DevOps Handbook — Part VII, Pages 481–505*
-
+*DevOps Handbook — Pages 118–120 of this PDF edition*
 ---
 
 ## 26.1 Containers in one paragraph

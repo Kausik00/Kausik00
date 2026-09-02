@@ -1,7 +1,6 @@
 # Chapter 6: IAM Best Practices and Permission Boundaries
 
-*AWS Handbook — Part II, Pages 106–125*
-
+*AWS Handbook — Pages 24–26 of this PDF edition*
 ---
 
 ## 6.1 The IAM security baseline

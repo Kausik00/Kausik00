@@ -1,7 +1,6 @@
 # Chapter 5: Linux Fundamentals — Filesystem, Users, Permissions
 
-*DevOps Handbook — Part II, Pages 61–85*
-
+*DevOps Handbook — Pages 20–23 of this PDF edition*
 ---
 
 ## 5.1 Why Linux dominates DevOps

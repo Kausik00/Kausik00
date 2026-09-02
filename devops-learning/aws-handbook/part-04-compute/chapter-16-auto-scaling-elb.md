@@ -1,7 +1,6 @@
 # Chapter 16: Auto Scaling & Elastic Load Balancing Integration
 
-*AWS Handbook — Part IV, Pages 306–325*
-
+*AWS Handbook — Pages 70–75 of this PDF edition*
 ---
 
 ## 16.1 Why Auto Scaling?

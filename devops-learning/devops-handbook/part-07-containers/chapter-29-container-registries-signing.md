@@ -1,7 +1,6 @@
 # Chapter 29: Container Registries and Image Signing
 
-*DevOps Handbook — Part VII, Pages 541–560*
-
+*DevOps Handbook — Pages 131–135 of this PDF edition*
 ---
 
 ## 29.1 Container registries overview

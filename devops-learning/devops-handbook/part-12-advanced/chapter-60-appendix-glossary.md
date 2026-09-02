@@ -1,7 +1,6 @@
 # Chapter 60: Appendix — Cheatsheets, Glossary, and Index
 
-*DevOps Handbook — Part XII, Pages 1181–1200*
-
+*DevOps Handbook — Pages 293–298 of this PDF edition*
 ---
 
 ## 60.1 kubectl quick reference

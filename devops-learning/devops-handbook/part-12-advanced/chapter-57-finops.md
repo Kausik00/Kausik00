@@ -1,7 +1,6 @@
 # Chapter 57: FinOps and Cost-Aware Engineering
 
-*DevOps Handbook — Part XII, Pages 1116–1130*
-
+*DevOps Handbook — Pages 278–281 of this PDF edition*
 ---
 
 ## 57.1 Cloud cost as engineering concern

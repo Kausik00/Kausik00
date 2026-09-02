@@ -1,7 +1,6 @@
 # Chapter 13: HTTP/HTTPS, TLS, and Certificates
 
-*DevOps Handbook — Part IV, Pages 226–245*
-
+*DevOps Handbook — Pages 55–59 of this PDF edition*
 ---
 
 ## 13.1 HTTP: the application protocol of the web

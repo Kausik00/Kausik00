@@ -1,137 +1,108 @@
-# AWS Handbook — Master Table of Contents
+# AWS Cloud Handbook — Complete Edition
 
-**Target length:** ~800 pages (~320,000 words)  
-**Audience:** Beginner → Advanced AWS practitioners  
-**Companion:** [DevOps Handbook](../devops-handbook/00-table-of-contents.md)
+**This edition:** 214 numbered PDF pages (matches the page numbers in this file).
 
----
+Beginner → Advanced AWS. Every chapter is included.
 
-## Part I — Cloud Foundations (Pages 1–80)
+Companion: [DevOps Handbook](../devops-handbook/00-table-of-contents.md)
 
-| Ch | Title | Pages |
-|----|-------|-------|
-| 1 | Introduction to AWS & Shared Responsibility | 1–18 |
-| 2 | AWS Global Infrastructure: Regions, AZs, Edge | 19–35 |
-| 3 | AWS Account Setup, Billing, and Cost Basics | 36–55 |
-| 4 | AWS CLI, CloudShell, and SDK Overview | 56–80 |
+Page numbers in this index match the page number printed at the bottom of each PDF page.
+They are measured from this edition, not estimates.
 
-**Written:** All 42 chapters complete
+**Total pages: 214**
 
----
-
-## Part II — Identity & Access Management (Pages 81–160)
+## Part I — Cloud Foundations (Pages 5–19)
 
 | Ch | Title | Pages |
 |----|-------|-------|
-| 5 | IAM Users, Groups, Roles, and Policies | 81–105 |
-| 6 | IAM Best Practices & Permission Boundaries | 106–125 |
-| 7 | IAM Identity Center (SSO) & Federation | 126–145 |
-| 8 | AWS Organizations & Service Control Policies | 146–160 |
+| 1 | Introduction to AWS & the Shared Responsibility Model | 5–7 |
+| 2 | AWS Global Infrastructure — Regions, AZs, and Edge | 8–10 |
+| 3 | AWS Account Setup, Billing, and Cost Basics | 11–13 |
+| 4 | AWS CLI, CloudShell, and SDK Overview | 14–19 |
 
-**Written:** [Chapter 5](./part-02-iam/chapter-05-iam-fundamentals.md)
-
----
-
-## Part III — Networking (Pages 161–280)
+## Part II — Identity & Access Management (Pages 20–36)
 
 | Ch | Title | Pages |
 |----|-------|-------|
-| 9 | VPC Fundamentals: CIDR, Subnets, Route Tables | 161–185 |
-| 10 | Internet Gateway, NAT, and Routing | 186–205 |
-| 11 | Security Groups vs NACLs | 206–220 |
-| 12 | Load Balancers: ALB, NLB, GWLB | 221–245 |
-| 13 | Route 53: DNS Records and Routing Policies | 246–265 |
-| 14 | VPC Peering, Transit Gateway, PrivateLink | 266–280 |
+| 5 | IAM Users, Groups, Roles, and Policies | 20–23 |
+| 6 | IAM Best Practices and Permission Boundaries | 24–26 |
+| 7 | IAM Identity Center (SSO) & Federation | 27–31 |
+| 8 | AWS Organizations & Service Control Policies | 32–36 |
 
----
-
-## Part IV — Compute (Pages 281–400)
+## Part III — Networking (Pages 37–66)
 
 | Ch | Title | Pages |
 |----|-------|-------|
-| 15 | EC2: Instance Types, AMIs, Launch Templates | 281–305 |
-| 16 | Auto Scaling & Elastic Load Balancing Integration | 306–325 |
-| 17 | Lambda: Events, Concurrency, and Layers | 326–350 |
-| 18 | ECS & Fargate | 351–375 |
-| 19 | EKS: Managed Kubernetes on AWS | 376–400 |
+| 9 | VPC Fundamentals — CIDR, Subnets, and Route Tables | 37–39 |
+| 10 | Internet Gateway, NAT Gateway, and Routing | 40–42 |
+| 11 | Security Groups vs Network ACLs | 43–48 |
+| 12 | Load Balancers — ALB, NLB, and GWLB | 49–54 |
+| 13 | Route 53 — DNS Records and Routing Policies | 55–60 |
+| 14 | VPC Peering, Transit Gateway, and PrivateLink | 61–66 |
 
----
-
-## Part V — Storage (Pages 401–480)
-
-| Ch | Title | Pages |
-|----|-------|-------|
-| 20 | S3: Buckets, Objects, Versioning, Lifecycle | 401–425 |
-| 21 | S3 Security, Encryption, and Static Websites | 426–445 |
-| 22 | EBS & EFS | 446–465 |
-| 23 | AWS Backup & Disaster Recovery Patterns | 466–480 |
-
----
-
-## Part VI — Databases (Pages 481–560)
+## Part IV — Compute (Pages 67–92)
 
 | Ch | Title | Pages |
 |----|-------|-------|
-| 24 | RDS & Aurora | 481–505 |
-| 25 | DynamoDB: Tables, Indexes, Streams | 506–525 |
-| 26 | ElastiCache & Caching Patterns | 526–540 |
-| 27 | Database Migration (DMS) & DR | 541–560 |
+| 15 | EC2 — Instance Types, AMIs, and Launch Templates | 67–69 |
+| 16 | Auto Scaling & Elastic Load Balancing Integration | 70–75 |
+| 17 | Lambda — Events, Concurrency, and Layers | 76–81 |
+| 18 | ECS & Fargate | 82–86 |
+| 19 | EKS — Managed Kubernetes on AWS | 87–92 |
 
----
-
-## Part VII — Application Integration (Pages 561–620)
-
-| Ch | Title | Pages |
-|----|-------|-------|
-| 28 | API Gateway | 561–580 |
-| 29 | SQS, SNS, and EventBridge | 581–605 |
-| 30 | Step Functions Workflows | 606–620 |
-
----
-
-## Part VIII — DevOps on AWS (Pages 621–700)
+## Part V — Storage (Pages 93–113)
 
 | Ch | Title | Pages |
 |----|-------|-------|
-| 31 | CloudFormation Deep Dive | 621–645 |
-| 32 | AWS CDK | 646–665 |
-| 33 | CodePipeline, CodeBuild, CodeDeploy | 666–685 |
-| 34 | Systems Manager & Parameter Store | 686–700 |
+| 20 | S3 — Buckets, Objects, Versioning, and Lifecycle | 93–95 |
+| 21 | S3 Security, Encryption, and Static Websites | 96–101 |
+| 22 | EBS & EFS | 102–107 |
+| 23 | AWS Backup & Disaster Recovery Patterns | 108–113 |
 
----
-
-## Part IX — Observability & Operations (Pages 701–760)
+## Part VI — Databases (Pages 114–136)
 
 | Ch | Title | Pages |
 |----|-------|-------|
-| 35 | CloudWatch Metrics, Alarms, Dashboards | 701–720 |
-| 36 | CloudWatch Logs & Insights | 721–735 |
-| 37 | X-Ray & Distributed Tracing | 736–750 |
-| 38 | CloudTrail & AWS Config | 751–760 |
+| 24 | RDS & Aurora | 114–119 |
+| 25 | DynamoDB — Tables, Indexes, and Streams | 120–125 |
+| 26 | ElastiCache & Caching Patterns | 126–130 |
+| 27 | Database Migration (DMS) & DR | 131–136 |
 
----
-
-## Part X — Security & Compliance (Pages 761–800)
+## Part VII — Application Integration (Pages 137–154)
 
 | Ch | Title | Pages |
 |----|-------|-------|
-| 39 | KMS, Secrets Manager, ACM | 761–775 |
-| 40 | GuardDuty, Security Hub, WAF, Shield | 776–790 |
-| 41 | Well-Architected Review & Capstone Design | 791–800 |
+| 28 | API Gateway | 137–142 |
+| 29 | SQS, SNS, and EventBridge | 143–148 |
+| 30 | Step Functions Workflows | 149–154 |
 
----
+## Part VIII — DevOps on AWS (Pages 155–177)
 
-## Expansion status
+| Ch | Title | Pages |
+|----|-------|-------|
+| 31 | CloudFormation Deep Dive | 155–160 |
+| 32 | AWS CDK | 161–165 |
+| 33 | CodePipeline, CodeBuild, and CodeDeploy | 166–171 |
+| 34 | Systems Manager & Parameter Store | 172–177 |
 
-| Part | Status |
-|------|--------|
-| I — Foundations | Complete (Ch 1–4) |
-| II — IAM | Complete (Ch 5–8) |
-| III — Networking | Complete (Ch 9–14) |
-| IV — Compute | Complete (Ch 15–19) |
-| V — Storage | Complete (Ch 20–23) |
-| VI — Databases | Complete (Ch 24–27) |
-| VII — Integration | Complete (Ch 28–30) |
-| VIII — DevOps | Complete (Ch 31–34) |
-| IX — Observability | Complete (Ch 35–38) |
-| X — Security | Complete (Ch 39–41) |
+## Part IX — Observability & Operations (Pages 178–195)
+
+| Ch | Title | Pages |
+|----|-------|-------|
+| 35 | CloudWatch — Metrics, Alarms, and Dashboards | 178–180 |
+| 36 | CloudWatch Logs & Insights | 181–185 |
+| 37 | X-Ray & Distributed Tracing | 186–190 |
+| 38 | CloudTrail & AWS Config | 191–195 |
+
+## Part X — Security & Compliance (Pages 196–214)
+
+| Ch | Title | Pages |
+|----|-------|-------|
+| 39 | KMS, Secrets Manager, and ACM | 196–201 |
+| 40 | GuardDuty, Security Hub, WAF, and Shield | 202–208 |
+| 41 | Well-Architected Review & Capstone Design | 209–214 |
+
+## Edition total
+
+This PDF contains **41 chapters** across **214 pages**.
+

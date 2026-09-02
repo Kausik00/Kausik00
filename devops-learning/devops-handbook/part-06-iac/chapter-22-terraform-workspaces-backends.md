@@ -1,7 +1,6 @@
 # Chapter 22: Terraform — Workspaces, Backends, and CI Integration
 
-*DevOps Handbook — Part VI, Pages 411–430*
-
+*DevOps Handbook — Pages 96–101 of this PDF edition*
 ---
 
 ## 22.1 Why remote state and backends matter

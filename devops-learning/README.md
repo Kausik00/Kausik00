@@ -2,13 +2,15 @@
 
 Complete handbooks with **all chapters written** and downloadable PDFs.
 
-| Resource | Chapters | PDF |
-|----------|----------|-----|
-| [DevOps Handbook](./devops-handbook/00-table-of-contents.md) | **60 chapters** (~1,200 pages planned) | [devops-handbook.pdf](./pdf/devops-handbook.pdf) (2.0 MB) |
-| [AWS Handbook](./aws-handbook/00-table-of-contents.md) | **41 chapters** (~800 pages planned) | [aws-handbook.pdf](./pdf/aws-handbook.pdf) (1.4 MB) |
-| [DevOps Curriculum](./curriculum-devops.md) | Tools & concepts reference | [devops-curriculum.pdf](./pdf/devops-curriculum.pdf) |
-| [AWS Curriculum](./curriculum-aws.md) | Services reference | [aws-curriculum.pdf](./pdf/aws-curriculum.pdf) |
-| **Combined guide** | Everything | [devops-aws-complete-guide.pdf](./pdf/devops-aws-complete-guide.pdf) (3.3 MB) |
+The page numbers in each handbook **index match that PDF’s footer** (not estimates).
+
+| Resource | Chapters | This edition | PDF |
+|----------|----------|--------------|-----|
+| [DevOps Handbook](./devops-handbook/00-table-of-contents.md) | 60 | **298 pages** | [devops-handbook.pdf](./pdf/devops-handbook.pdf) |
+| [AWS Handbook](./aws-handbook/00-table-of-contents.md) | 41 | **214 pages** | [aws-handbook.pdf](./pdf/aws-handbook.pdf) |
+| [DevOps Curriculum](./curriculum-devops.md) | reference | **9 pages** | [devops-curriculum.pdf](./pdf/devops-curriculum.pdf) |
+| [AWS Curriculum](./curriculum-aws.md) | reference | **9 pages** | [aws-curriculum.pdf](./pdf/aws-curriculum.pdf) |
+| Combined guide | all of the above | **531 pages** | [devops-aws-complete-guide.pdf](./pdf/devops-aws-complete-guide.pdf) |
 
 ## Download PDFs
 
@@ -16,11 +18,11 @@ Pre-built PDFs are in the [`pdf/`](./pdf/) folder. On GitHub: browse to the file
 
 | PDF | Description |
 |-----|-------------|
-| [devops-handbook.pdf](./pdf/devops-handbook.pdf) | Full DevOps handbook — 60 chapters |
-| [aws-handbook.pdf](./pdf/aws-handbook.pdf) | Full AWS handbook — 41 chapters |
-| [devops-aws-complete-guide.pdf](./pdf/devops-aws-complete-guide.pdf) | Curricula + both handbooks |
-| [devops-curriculum.pdf](./pdf/devops-curriculum.pdf) | DevOps tools & concepts |
-| [aws-curriculum.pdf](./pdf/aws-curriculum.pdf) | AWS services list |
+| [devops-handbook.pdf](./pdf/devops-handbook.pdf) | 60 chapters, **298 pages** (index matches footer) |
+| [aws-handbook.pdf](./pdf/aws-handbook.pdf) | 41 chapters, **214 pages** (index matches footer) |
+| [devops-aws-complete-guide.pdf](./pdf/devops-aws-complete-guide.pdf) | All content, **531 pages** — see [combined index](./pdf/COMBINED-INDEX.md) |
+| [devops-curriculum.pdf](./pdf/devops-curriculum.pdf) | DevOps tools & concepts (**9 pages**) |
+| [aws-curriculum.pdf](./pdf/aws-curriculum.pdf) | AWS services list (**9 pages**) |
 
 **Rebuild PDFs** after editing markdown:
 

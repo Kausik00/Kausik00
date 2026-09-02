@@ -1,7 +1,6 @@
 # Chapter 4: Career Paths, Certifications, and Learning Strategy
 
-*DevOps Handbook — Part I, Pages 43–60*
-
+*DevOps Handbook — Pages 15–19 of this PDF edition*
 ---
 
 ## 4.1 DevOps is a skill set, not a single job title

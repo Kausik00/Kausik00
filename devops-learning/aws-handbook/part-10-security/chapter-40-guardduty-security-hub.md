@@ -1,7 +1,6 @@
 # Chapter 40: GuardDuty, Security Hub, WAF, and Shield
 
-*AWS Handbook — Part X, Pages 776–790*
-
+*AWS Handbook — Pages 202–208 of this PDF edition*
 ---
 
 ## 40.1 AWS security services landscape

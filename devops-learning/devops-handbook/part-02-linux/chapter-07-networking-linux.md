@@ -1,7 +1,6 @@
 # Chapter 7: Networking on Linux — ip, ss, curl, dig
 
-*DevOps Handbook — Part II, Pages 106–120*
-
+*DevOps Handbook — Pages 27–31 of this PDF edition*
 ---
 
 ## 7.1 Why networking skills matter for DevOps

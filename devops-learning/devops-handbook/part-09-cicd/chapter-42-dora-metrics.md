@@ -1,7 +1,6 @@
 # Chapter 42: DORA Metrics and Continuous Improvement
 
-*DevOps Handbook — Part IX, Pages 826–840*
-
+*DevOps Handbook — Pages 198–202 of this PDF edition*
 ---
 
 ## 42.1 What DORA measures

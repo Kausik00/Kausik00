@@ -1,7 +1,6 @@
 # Chapter 16: Python for DevOps — boto3, requests, pathlib
 
-*DevOps Handbook — Part V, Pages 281–305*
-
+*DevOps Handbook — Pages 69–73 of this PDF edition*
 ---
 
 ## 16.1 Why Python dominates DevOps automation

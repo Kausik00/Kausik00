@@ -1,7 +1,6 @@
 # Chapter 1: What Is DevOps? History and Culture
 
-*DevOps Handbook — Part I, Pages 1–15*
-
+*DevOps Handbook — Pages 6–8 of this PDF edition*
 ---
 
 ## 1.1 The problem DevOps solves

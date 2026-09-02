@@ -1,7 +1,6 @@
 # Chapter 33: CodePipeline, CodeBuild, and CodeDeploy
 
-*AWS Handbook — Part VIII, Pages 666–685*
-
+*AWS Handbook — Pages 166–171 of this PDF edition*
 ---
 
 ## 33.1 CI/CD on AWS

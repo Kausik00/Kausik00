@@ -1,7 +1,6 @@
 # Chapter 54: Compliance Automation and Audit Trails
 
-*DevOps Handbook — Part XI, Pages 1061–1080*
-
+*DevOps Handbook — Pages 263–267 of this PDF edition*
 ---
 
 ## 54.1 Compliance in continuous delivery

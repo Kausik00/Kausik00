@@ -1,7 +1,6 @@
 # Chapter 28: Docker Compose and Local Dev Environments
 
-*DevOps Handbook — Part VII, Pages 526–540*
-
+*DevOps Handbook — Pages 126–130 of this PDF edition*
 ---
 
 ## 28.1 What Docker Compose solves

@@ -1,7 +1,6 @@
 # Chapter 48: Chaos Engineering and Game Days
 
-*DevOps Handbook — Part X, Pages 946–960*
-
+*DevOps Handbook — Pages 231–235 of this PDF edition*
 ---
 
 ## 48.1 Proactive resilience testing

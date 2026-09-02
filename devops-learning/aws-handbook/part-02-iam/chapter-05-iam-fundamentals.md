@@ -1,7 +1,6 @@
 # Chapter 5: IAM Users, Groups, Roles, and Policies
 
-*AWS Handbook — Part II, Pages 81–105*
-
+*AWS Handbook — Pages 20–23 of this PDF edition*
 ---
 
 ## 5.1 What is IAM?

@@ -1,7 +1,6 @@
 # Chapter 15: Cloud Networking Patterns — VPC Overview
 
-*DevOps Handbook — Part IV, Pages 266–280*
-
+*DevOps Handbook — Pages 65–68 of this PDF edition*
 ---
 
 ## 15.1 VPC: your private network in the cloud

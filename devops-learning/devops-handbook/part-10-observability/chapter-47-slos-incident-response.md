@@ -1,7 +1,6 @@
 # Chapter 47: SLOs, Error Budgets, and Incident Response
 
-*DevOps Handbook — Part X, Pages 931–945*
-
+*DevOps Handbook — Pages 226–230 of this PDF edition*
 ---
 
 ## 47.1 Reliability as a product decision

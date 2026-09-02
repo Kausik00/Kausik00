@@ -1,7 +1,6 @@
 # Chapter 11: GitHub/GitLab Workflows — PRs, Issues, Actions Intro
 
-*DevOps Handbook — Part III, Pages 176–200*
-
+*DevOps Handbook — Pages 45–49 of this PDF edition*
 ---
 
 ## 11.1 Platform-native Git workflows

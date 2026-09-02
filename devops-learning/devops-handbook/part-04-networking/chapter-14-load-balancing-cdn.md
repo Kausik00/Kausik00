@@ -1,7 +1,6 @@
 # Chapter 14: Load Balancing, Proxies, and CDN
 
-*DevOps Handbook — Part IV, Pages 246–265*
-
+*DevOps Handbook — Pages 60–64 of this PDF edition*
 ---
 
 ## 14.1 Why load balancing exists

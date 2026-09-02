@@ -1,7 +1,6 @@
 # Chapter 23: Ansible — Playbooks, Roles, and Inventories
 
-*DevOps Handbook — Part VI, Pages 431–450*
-
+*DevOps Handbook — Pages 102–107 of this PDF edition*
 ---
 
 ## 23.1 Ansible in the IaC landscape

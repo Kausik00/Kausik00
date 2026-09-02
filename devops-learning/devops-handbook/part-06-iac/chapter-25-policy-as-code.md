@@ -1,7 +1,6 @@
 # Chapter 25: Policy as Code — OPA, Checkov, and Sentinel
 
-*DevOps Handbook — Part VI, Pages 466–480*
-
+*DevOps Handbook — Pages 113–117 of this PDF edition*
 ---
 
 ## 25.1 Why policy as code?

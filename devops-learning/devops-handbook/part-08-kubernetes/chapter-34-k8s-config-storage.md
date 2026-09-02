@@ -1,7 +1,6 @@
 # Chapter 34: Kubernetes ConfigMaps, Secrets, and Storage (PV/PVC)
 
-*DevOps Handbook — Part VIII, Pages 656–675*
-
+*DevOps Handbook — Pages 156–160 of this PDF edition*
 ---
 
 ## 34.1 Separating config from images

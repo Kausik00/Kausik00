@@ -1,7 +1,6 @@
 # Chapter 2: CALMS, Three Ways, and Team Topologies
 
-*DevOps Handbook — Part I, Pages 16–30*
-
+*DevOps Handbook — Pages 9–11 of this PDF edition*
 ---
 
 ## 2.1 The CALMS framework

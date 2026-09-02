@@ -1,7 +1,6 @@
 # Chapter 38: GitHub Actions — Workflows, Secrets, Runners
 
-*DevOps Handbook — Part IX, Pages 746–770*
-
+*DevOps Handbook — Pages 175–180 of this PDF edition*
 ---
 
 ## 38.1 GitHub Actions architecture

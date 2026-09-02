@@ -1,7 +1,6 @@
 # Chapter 50: SAST, DAST, SCA, and Container Scanning
 
-*DevOps Handbook — Part XI, Pages 981–1000*
-
+*DevOps Handbook — Pages 241–246 of this PDF edition*
 ---
 
 ## 50.1 Application security testing taxonomy
