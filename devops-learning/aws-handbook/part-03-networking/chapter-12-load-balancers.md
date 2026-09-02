@@ -1,6 +1,6 @@
 # Chapter 12: Load Balancers — ALB, NLB, and GWLB
 
-*AWS Handbook — Pages 49–54 of this PDF edition*
+*AWS Handbook — Pages 50–55 of this PDF edition*
 ---
 
 ## 12.1 Why load balancers?

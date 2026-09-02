@@ -1,5 +1,7 @@
 # Chapter 63: Git Disaster Recovery
 
+*DevOps Handbook — Pages 317–324 of this PDF edition*
+
 *DevOps Handbook — Workbook*
 ---
 

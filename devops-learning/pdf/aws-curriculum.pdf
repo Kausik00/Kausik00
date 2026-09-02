@@ -3559,7 +3559,7 @@ endobj
 11 0 obj
 <<
 /Type /FontDescriptor
-/FontName /QSCAAA+DejaVuSans-Bold
+/FontName /QEDAAA+DejaVuSans-Bold
 /Flags 4
 /FontBBox [ -1069.33593 -415.039062 1975.09765 1175.29296 ]
 /ItalicAngle 0
@@ -3679,7 +3679,7 @@ endobj
 17 0 obj
 <<
 /Type /FontDescriptor
-/FontName /QYCAAA+DejaVuSans
+/FontName /QSCAAA+DejaVuSans
 /Flags 4
 /FontBBox [ -1020.50781 -462.890625 1793.45703 1232.42187 ]
 /ItalicAngle 0
@@ -3787,7 +3787,7 @@ endobj
 23 0 obj
 <<
 /Type /FontDescriptor
-/FontName /QEDAAA+DejaVuSansMono
+/FontName /QYCAAA+DejaVuSansMono
 /Flags 4
 /FontBBox [ -558.59375 -374.511718 717.773437 1028.32031 ]
 /ItalicAngle 0

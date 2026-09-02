@@ -1,6 +1,6 @@
 # Chapter 37: X-Ray & Distributed Tracing
 
-*AWS Handbook — Pages 186–190 of this PDF edition*
+*AWS Handbook — Pages 187–191 of this PDF edition*
 ---
 
 ## 37.1 Why distributed tracing?

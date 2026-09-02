@@ -1,5 +1,7 @@
 # Chapter 76: Production Case Studies
 
+*DevOps Handbook — Pages 435–440 of this PDF edition*
+
 The following six case studies are **fictional** companies and timelines. They are realistic in the sense that every failure mode has happened, in some combination, at real organizations. Names, metrics, and vendors are invented for teaching. Read them as after-action reports: architecture, timeline, impact, root causes, and lasting changes.
 
 Use each study as a tabletop: pause at “T+12 min” and write what *you* would do before reading the resolution.

@@ -1,5 +1,7 @@
 # Chapter 72: Linux Command Encyclopedia
 
+*DevOps Handbook — Pages 392–402 of this PDF edition*
+
 This encyclopedia is organized by job, not by man-page section. Every command includes a realistic flag set and a note on when *not* to use it. Copy, adapt, and keep a local cheatsheet—do not run destructive examples on production without a change window.
 
 Conventions used throughout:

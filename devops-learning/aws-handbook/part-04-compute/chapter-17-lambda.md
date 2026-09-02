@@ -1,6 +1,6 @@
 # Chapter 17: Lambda — Events, Concurrency, and Layers
 
-*AWS Handbook — Pages 76–81 of this PDF edition*
+*AWS Handbook — Pages 77–82 of this PDF edition*
 ---
 
 ## 17.1 What is AWS Lambda?

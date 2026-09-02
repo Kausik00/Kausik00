@@ -1,5 +1,7 @@
 # Chapter 64: Terraform Production Patterns
 
+*DevOps Handbook — Pages 325–332 of this PDF edition*
+
 *DevOps Handbook — Workbook*
 ---
 

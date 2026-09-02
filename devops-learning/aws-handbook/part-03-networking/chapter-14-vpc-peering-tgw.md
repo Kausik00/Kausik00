@@ -1,6 +1,6 @@
 # Chapter 14: VPC Peering, Transit Gateway, and PrivateLink
 
-*AWS Handbook — Pages 61–66 of this PDF edition*
+*AWS Handbook — Pages 62–67 of this PDF edition*
 ---
 
 ## 14.1 Connecting VPCs and services

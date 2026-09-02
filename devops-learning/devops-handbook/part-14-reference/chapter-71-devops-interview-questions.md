@@ -1,5 +1,7 @@
 # Chapter 71: DevOps Interview Questions
 
+*DevOps Handbook — Pages 381–391 of this PDF edition*
+
 This chapter is a working interview kit, not a trivia list. Each question includes a **model answer**, what interviewers are actually probing, and follow-ups you should be ready for. Treat the answers as outlines: speak them in your own words, then deepen with a story from a system you have operated.
 
 Use this chapter in three modes:

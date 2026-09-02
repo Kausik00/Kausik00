@@ -1,5 +1,7 @@
 # Chapter 53: Multi-Account Landing Zone
 
+*AWS Handbook — Pages 306–315 of this PDF edition*
+
 A landing zone is the opinionated multi-account foundation on which every workload in this handbook sits. It is not a single VPC. It is Organizations plus identity, logging, security tooling, network hub, account vending, and the Service Control Policies (SCPs) that make unsafe API calls impossible even for account administrators. AWS Control Tower automates much of this; many enterprises still compose the same pieces by hand or with Customizations for Control Tower (CfCT) and Account Factory for Terraform (AFT).
 
 This chapter assumes you can already create an organization (Chapter 8). Here we go deeper: OU design, Control Tower guardrails, SCP strategy that does not lock you out, account vending workflows, and labs that you can run in a test organization.

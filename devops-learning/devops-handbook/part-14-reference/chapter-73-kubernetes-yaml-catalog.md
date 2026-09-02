@@ -1,5 +1,7 @@
 # Chapter 73: Kubernetes YAML Catalog
 
+*DevOps Handbook — Pages 403–415 of this PDF edition*
+
 This catalog is a set of **production-shaped** manifests you can copy into a GitOps repo. They are opinionated: explicit requests/limits, probes, PDBs, securityContext, and topology spread. Replace names, registries, and CIDRs. Do not paste into production without reviewing NetworkPolicy CIDRs and image digests.
 
 Conventions:

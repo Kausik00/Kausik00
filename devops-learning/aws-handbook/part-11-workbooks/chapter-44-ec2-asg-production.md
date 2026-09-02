@@ -1,5 +1,7 @@
 # Chapter 44: EC2 and Auto Scaling in Production
 
+*AWS Handbook — Pages 231–238 of this PDF edition*
+
 This workbook turns Chapters 15–16 into an operations playbook: launch templates that are actually immutable, Auto Scaling groups that survive AZ loss, load-balancer health that matches application health, and the IAM, networking, and observability details that separate a lab ASG from a production fleet. You will build a small service, break it on purpose, and watch the group replace instances without a human SSH session.
 
 ---

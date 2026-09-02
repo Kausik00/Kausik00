@@ -1,5 +1,7 @@
 # Chapter 55: Practice Exam — AWS Solutions Architect Associate (SAA)
 
+*AWS Handbook — Pages 325–335 of this PDF edition*
+
 This chapter contains **50 original practice questions** in the style of the AWS Certified Solutions Architect – Associate exam. They are not dumps of live exam items. Use them to test design judgment: pick the **cheapest sufficiently correct** option unless the stem demands otherwise.
 
 How to use: sit a 90-minute timed pass without notes, then read every explanation — including items you got right. SAA punishes "the service I like" when the stem specified on-premises NFS, millisecond session state, or a 1-hour RTO.

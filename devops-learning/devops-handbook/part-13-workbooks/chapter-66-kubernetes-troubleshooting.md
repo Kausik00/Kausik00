@@ -1,5 +1,7 @@
 # Chapter 66: Kubernetes Troubleshooting
 
+*DevOps Handbook — Pages 341–348 of this PDF edition*
+
 *DevOps Handbook — Workbook*
 ---
 

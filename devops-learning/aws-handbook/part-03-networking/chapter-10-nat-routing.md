@@ -1,6 +1,6 @@
 # Chapter 10: Internet Gateway, NAT Gateway, and Routing
 
-*AWS Handbook — Pages 40–42 of this PDF edition*
+*AWS Handbook — Pages 41–43 of this PDF edition*
 ---
 
 ## 10.1 Internet Gateway (IGW)

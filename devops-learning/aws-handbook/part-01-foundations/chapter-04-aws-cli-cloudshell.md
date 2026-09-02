@@ -1,6 +1,6 @@
 # Chapter 4: AWS CLI, CloudShell, and SDK Overview
 
-*AWS Handbook — Pages 14–19 of this PDF edition*
+*AWS Handbook — Pages 15–20 of this PDF edition*
 ---
 
 ## 4.1 Why the CLI matters for DevOps

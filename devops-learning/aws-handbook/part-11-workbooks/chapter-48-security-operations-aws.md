@@ -1,5 +1,7 @@
 # Chapter 48: Security Operations on AWS (GuardDuty, Security Hub, Findings, IR)
 
+*AWS Handbook — Pages 260–265 of this PDF edition*
+
 Detection without response is a dashboard. This workbook is how a small cloud team runs security operations on AWS: enable the right detectors, normalize findings in Security Hub, route them, investigate with CloudTrail and VPC Flow Logs, contain with IAM and network controls, and write the incident timeline. Pair with Chapters 38–41. You will not become a 24×7 SOC in one lab, but you will stop treating GuardDuty as a green check mark you enabled once in 2022.
 
 ---

@@ -1,6 +1,6 @@
 # Chapter 11: Security Groups vs Network ACLs
 
-*AWS Handbook — Pages 43–48 of this PDF edition*
+*AWS Handbook — Pages 44–49 of this PDF edition*
 ---
 
 ## 11.1 Two layers of VPC security

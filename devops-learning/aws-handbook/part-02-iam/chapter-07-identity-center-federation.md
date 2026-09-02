@@ -1,6 +1,6 @@
 # Chapter 7: IAM Identity Center (SSO) & Federation
 
-*AWS Handbook — Pages 27–31 of this PDF edition*
+*AWS Handbook — Pages 28–32 of this PDF edition*
 ---
 
 ## 7.1 The problem with IAM users at scale

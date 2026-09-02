@@ -1,6 +1,6 @@
 # Chapter 36: CloudWatch Logs & Insights
 
-*AWS Handbook — Pages 181–185 of this PDF edition*
+*AWS Handbook — Pages 182–186 of this PDF edition*
 ---
 
 ## 36.1 CloudWatch Logs overview

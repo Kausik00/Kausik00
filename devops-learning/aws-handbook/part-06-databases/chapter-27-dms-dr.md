@@ -1,6 +1,6 @@
 # Chapter 27: Database Migration (DMS) & DR
 
-*AWS Handbook — Pages 131–136 of this PDF edition*
+*AWS Handbook — Pages 132–137 of this PDF edition*
 ---
 
 ## 27.1 Database migration challenges

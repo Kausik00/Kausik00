@@ -1,6 +1,6 @@
 # Chapter 3: AWS Account Setup, Billing, and Cost Basics
 
-*AWS Handbook — Pages 11–13 of this PDF edition*
+*AWS Handbook — Pages 12–14 of this PDF edition*
 ---
 
 ## 3.1 Creating a secure AWS account

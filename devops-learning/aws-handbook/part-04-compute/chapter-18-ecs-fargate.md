@@ -1,6 +1,6 @@
 # Chapter 18: ECS & Fargate
 
-*AWS Handbook — Pages 82–86 of this PDF edition*
+*AWS Handbook — Pages 83–87 of this PDF edition*
 ---
 
 ## 18.1 Container orchestration on AWS

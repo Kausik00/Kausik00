@@ -1,6 +1,6 @@
 # Chapter 23: AWS Backup & Disaster Recovery Patterns
 
-*AWS Handbook — Pages 108–113 of this PDF edition*
+*AWS Handbook — Pages 109–114 of this PDF edition*
 ---
 
 ## 23.1 Why backup and disaster recovery matter

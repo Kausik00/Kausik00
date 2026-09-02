@@ -1,5 +1,7 @@
 # Chapter 46: EKS on AWS Deep Dive
 
+*AWS Handbook — Pages 246–252 of this PDF edition*
+
 Amazon Elastic Kubernetes Service (EKS) is Kubernetes with AWS operating the control plane. This workbook is the production companion to Chapter 19: cluster layout, IAM Roles for Service Accounts, networking models, node groups versus Fargate versus Auto Mode, add-ons, upgrades, and the labs that prove a pod can talk to AWS APIs *without* a node instance role that can also destroy the cluster.
 
 ---

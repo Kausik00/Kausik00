@@ -1,6 +1,6 @@
 # Chapter 19: EKS — Managed Kubernetes on AWS
 
-*AWS Handbook — Pages 87–92 of this PDF edition*
+*AWS Handbook — Pages 88–93 of this PDF edition*
 ---
 
 ## 19.1 Why Amazon EKS?

@@ -1,5 +1,7 @@
 # Chapter 42: VPC Design Cookbook
 
+*AWS Handbook — Pages 216–222 of this PDF edition*
+
 This workbook is a production-oriented companion to the networking chapters in Parts III. It is not a recap of “what a VPC is.” It is a design cookbook: CIDR strategies that survive mergers, subnet layouts that keep NAT bills under control, route-table patterns that do not surprise on-call, and Terraform you can paste into a landing-zone module. Work through the labs in a throwaway account. Tear everything down when you finish.
 
 ---

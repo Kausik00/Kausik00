@@ -1,5 +1,7 @@
 # Chapter 65: Ansible at Scale
 
+*DevOps Handbook — Pages 333–340 of this PDF edition*
+
 *DevOps Handbook — Workbook*
 ---
 

@@ -1,5 +1,7 @@
 # Chapter 68: SLO Observability Practice
 
+*DevOps Handbook — Pages 357–364 of this PDF edition*
+
 *DevOps Handbook — Workbook*
 ---
 

@@ -1,5 +1,7 @@
 # Chapter 47: Data Services Cookbook (RDS, Aurora, DynamoDB, ElastiCache)
 
+*AWS Handbook — Pages 253–259 of this PDF edition*
+
 Relational, key-value, and cache layers show up together in every serious AWS architecture. This workbook treats them as one system: which workload belongs where, how they fail, how they authenticate, how they back up, and how Terraform and CLI make the design repeatable. It assumes Chapters 24–26. The goal is a cookbook you can use in a design review, not a feature list copied from the console.
 
 ---

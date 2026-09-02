@@ -1,6 +1,6 @@
 # Chapter 41: Well-Architected Review & Capstone Design
 
-*AWS Handbook — Pages 209–214 of this PDF edition*
+*AWS Handbook — Pages 210–215 of this PDF edition*
 ---
 
 ## 41.1 The AWS Well-Architected Framework

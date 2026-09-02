@@ -1,5 +1,7 @@
 # Chapter 49: Cost Optimization Workbook
 
+*AWS Handbook — Pages 266–272 of this PDF edition*
+
 Cost on AWS is an architecture property, not a monthly surprise. This workbook is a FinOps loop you can run: see, attribute, reduce unit cost, reduce waste, negotiate commitment, and prevent regression with budgets and governance. It complements Chapter 3 and the Well-Architected cost pillar. Every lab should be done in an account where you are allowed to look at bills.
 
 ---

@@ -1,5 +1,7 @@
 # Chapter 52: CloudFormation and CDK Catalog
 
+*AWS Handbook — Pages 293–305 of this PDF edition*
+
 This reference chapter is a working catalog of CloudFormation and AWS CDK patterns you can copy into pipelines, Service Catalog products, and platform modules. Chapters 31 and 32 covered syntax and first stacks. Here the goal is operational: reusable templates, nested and nested-of-nested composition, change-set discipline, CDK construct libraries, and a governed catalog that application teams consume without reinventing IAM, networking, or logging.
 
 Treat every snippet as a starting point, not a one-click production deploy. Substitute account IDs, CIDRs, and KMS aliases for your landing zone. Run the labs in a sandbox account with billing alerts enabled.

@@ -1,5 +1,7 @@
 # Chapter 67: Production CI/CD Patterns
 
+*DevOps Handbook — Pages 349–356 of this PDF edition*
+
 *DevOps Handbook — Workbook*
 ---
 

@@ -1,5 +1,7 @@
 # Chapter 45: Lambda Event Patterns
 
+*AWS Handbook — Pages 239–245 of this PDF edition*
+
 AWS Lambda is a compute primitive that runs your function in response to events. This workbook is about *those events*: how they arrive, how they retry, how they poison a queue, how concurrency turns into throttling, and how Terraform should express the wiring so you do not debug mappings in the console at 03:00. Chapter 17 covered the runtime. Here you design the system around the function.
 
 ---

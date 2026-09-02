@@ -1,5 +1,7 @@
 # Chapter 61: Linux Production Troubleshooting Cookbook
 
+*DevOps Handbook — Pages 299–308 of this PDF edition*
+
 *DevOps Handbook — Workbook*
 ---
 

@@ -1,6 +1,6 @@
 # Chapter 1: Introduction to AWS & the Shared Responsibility Model
 
-*AWS Handbook — Pages 5–7 of this PDF edition*
+*AWS Handbook — Pages 6–8 of this PDF edition*
 ---
 
 ## 1.1 What is Amazon Web Services (AWS)?

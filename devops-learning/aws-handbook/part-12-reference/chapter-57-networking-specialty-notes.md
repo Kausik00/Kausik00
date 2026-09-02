@@ -1,5 +1,7 @@
 # Chapter 57: Networking Specialty Notes — TGW, PrivateLink, Hybrid, Route 53
 
+*AWS Handbook — Pages 346–353 of this PDF edition*
+
 These notes are a **Networking Specialty-oriented** companion to Chapters 9–14. Associate exams stop at "use a Transit Gateway for many VPCs." Specialty and production networks require route table design, appliance mode, Direct Connect overlay, PrivateLink operational limits, hybrid DNS, and Route 53 failure modes. Read this with a notepad: draw every lab before you type.
 
 This is not a dump of every exam domain (no full Network Firewall signature list, no every Global Accelerator knob). It is the spine you will reuse: **how packets and names actually move**.

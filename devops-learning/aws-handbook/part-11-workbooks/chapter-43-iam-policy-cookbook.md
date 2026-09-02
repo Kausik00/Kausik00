@@ -1,5 +1,7 @@
 # Chapter 43: IAM Policy Cookbook
 
+*AWS Handbook — Pages 223–230 of this PDF edition*
+
 Identity and Access Management is the control plane of AWS. This workbook is a policy-writing studio: JSON you can reason about, Terraform that keeps humans from clicking in the console, and labs that prove a statement is deny-by-default rather than “it worked for the admin.” Pair it with Chapters 5–8. If you cannot explain the difference between an identity policy, a resource policy, a permission boundary, and an SCP, stop and reread those chapters first.
 
 ---

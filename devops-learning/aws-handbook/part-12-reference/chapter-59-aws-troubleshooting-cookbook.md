@@ -1,5 +1,7 @@
 # Chapter 59: AWS Troubleshooting Cookbook
 
+*AWS Handbook — Pages 363–370 of this PDF edition*
+
 This cookbook is organized by **symptom**, not by service marketing name. When production is down, you do not need a reminder that CloudWatch exists. You need a sequence: freeze the blast radius, classify the failure, prove it with evidence, apply a reversible fix, then write the follow-up. Pair with Chapter 54 for Regional disasters and Chapter 57 for packet-level networking.
 
 **Golden rules**

@@ -1,5 +1,7 @@
 # Chapter 60: Architecture Capstone — Multi-Tier, EKS, and Data on AWS
 
+*AWS Handbook — Pages 371–378 of this PDF edition*
+
 This capstone is a **complete architecture walkthrough** for a fictional product, **Northwind Retail (NWR)**. It goes beyond Chapter 41's Well-Architected sketch: account layout, network, EKS platform, multi-tier services, data lake/warehouse, CI/CD, security, DR, cost, and a lab sequence you can implement in miniature. Treat it as a design you would defend in an architecture review.
 
 NWR is a retailer: public website and mobile API, partner B2B API, catalog and search, checkout, fulfillment, and analytics. Primary Region `us-east-1`, DR `us-west-2`, landing zone as in Chapter 53.

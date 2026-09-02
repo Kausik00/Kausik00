@@ -1,5 +1,7 @@
 # Chapter 70: Platform Blueprints
 
+*DevOps Handbook — Pages 373–380 of this PDF edition*
+
 *DevOps Handbook — Workbook*
 ---
 

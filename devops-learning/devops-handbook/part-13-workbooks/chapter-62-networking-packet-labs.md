@@ -1,5 +1,7 @@
 # Chapter 62: Networking Packet Labs
 
+*DevOps Handbook — Pages 309–316 of this PDF edition*
+
 *DevOps Handbook — Workbook*
 ---
 

@@ -1,6 +1,6 @@
 # Chapter 25: DynamoDB — Tables, Indexes, and Streams
 
-*AWS Handbook — Pages 120–125 of this PDF edition*
+*AWS Handbook — Pages 121–126 of this PDF edition*
 ---
 
 ## 25.1 What is DynamoDB?

@@ -1,6 +1,6 @@
 # Chapter 38: CloudTrail & AWS Config
 
-*AWS Handbook — Pages 191–195 of this PDF edition*
+*AWS Handbook — Pages 192–196 of this PDF edition*
 ---
 
 ## 38.1 Audit and compliance foundations

@@ -1,5 +1,7 @@
 # Chapter 50: Well-Architected Checklists
 
+*AWS Handbook — Pages 273–281 of this PDF edition*
+
 The AWS Well-Architected Framework is six pillars plus a set of questions that force specifics. Chapter 41 walked a capstone design. This workbook is the review kit: checklists you can run on a real workload, evidence to collect, scoring notes, and review questions. There are no planned PDF page numbers here — use the checklists, not a page index.
 
 A review is successful when it produces **work items with owners**, not a color-coded slide. Use the AWS Well-Architected Tool to store answers if your organization requires it; the checklists below work with a spreadsheet equally well.

@@ -6,11 +6,11 @@ The page numbers in each handbook **index match that PDF’s footer** (not estim
 
 | Resource | Chapters | This edition | PDF |
 |----------|----------|--------------|-----|
-| [DevOps Handbook](./devops-handbook/00-table-of-contents.md) | 60 | **298 pages** | [devops-handbook.pdf](./pdf/devops-handbook.pdf) |
-| [AWS Handbook](./aws-handbook/00-table-of-contents.md) | 41 | **214 pages** | [aws-handbook.pdf](./pdf/aws-handbook.pdf) |
+| [DevOps Handbook](./devops-handbook/00-table-of-contents.md) | 80 | **481 pages** | [devops-handbook.pdf](./pdf/devops-handbook.pdf) |
+| [AWS Handbook](./aws-handbook/00-table-of-contents.md) | 61 | **385 pages** | [aws-handbook.pdf](./pdf/aws-handbook.pdf) |
 | [DevOps Curriculum](./curriculum-devops.md) | reference | **9 pages** | [devops-curriculum.pdf](./pdf/devops-curriculum.pdf) |
 | [AWS Curriculum](./curriculum-aws.md) | reference | **9 pages** | [aws-curriculum.pdf](./pdf/aws-curriculum.pdf) |
-| Combined guide | all of the above | **531 pages** | [devops-aws-complete-guide.pdf](./pdf/devops-aws-complete-guide.pdf) |
+| Combined guide | all of the above | **885 pages** | [devops-aws-complete-guide.pdf](./pdf/devops-aws-complete-guide.pdf) |
 
 ## Download PDFs
 
@@ -18,9 +18,9 @@ Pre-built PDFs are in the [`pdf/`](./pdf/) folder. On GitHub: browse to the file
 
 | PDF | Description |
 |-----|-------------|
-| [devops-handbook.pdf](./pdf/devops-handbook.pdf) | 60 chapters, **298 pages** (index matches footer) |
-| [aws-handbook.pdf](./pdf/aws-handbook.pdf) | 41 chapters, **214 pages** (index matches footer) |
-| [devops-aws-complete-guide.pdf](./pdf/devops-aws-complete-guide.pdf) | All content, **531 pages** — see [combined index](./pdf/COMBINED-INDEX.md) |
+| [devops-handbook.pdf](./pdf/devops-handbook.pdf) | 80 chapters, **481 pages** (index matches footer) |
+| [aws-handbook.pdf](./pdf/aws-handbook.pdf) | 61 chapters, **385 pages** (index matches footer) |
+| [devops-aws-complete-guide.pdf](./pdf/devops-aws-complete-guide.pdf) | All content, **885 pages** — see [combined index](./pdf/COMBINED-INDEX.md) |
 | [devops-curriculum.pdf](./pdf/devops-curriculum.pdf) | DevOps tools & concepts (**9 pages**) |
 | [aws-curriculum.pdf](./pdf/aws-curriculum.pdf) | AWS services list (**9 pages**) |
 

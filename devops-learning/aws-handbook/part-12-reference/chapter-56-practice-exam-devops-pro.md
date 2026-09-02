@@ -1,5 +1,7 @@
 # Chapter 56: Practice Exam — AWS Certified DevOps Engineer – Professional (DOP)
 
+*AWS Handbook — Pages 336–345 of this PDF edition*
+
 This chapter contains **50 original DOP-style questions**. The Professional exam assumes SAA knowledge and then tests **automation, governance, observability, resilient delivery, and incident response**. Stems are longer. More than one option may be "possible"; the best answer is usually the one that is **repeatable, least privilege, and measurable**.
 
 DOP loves CloudFormation/CDK, CodePipeline, CodeBuild, CodeDeploy, CloudWatch, X-Ray, Config, Organizations, IAM, Auto Scaling, blue/green, canary, and "how do we know this failed?"

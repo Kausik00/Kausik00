@@ -1,6 +1,6 @@
 # Chapter 32: AWS CDK
 
-*AWS Handbook — Pages 161–165 of this PDF edition*
+*AWS Handbook — Pages 162–166 of this PDF edition*
 ---
 
 ## 32.1 What is the AWS CDK?

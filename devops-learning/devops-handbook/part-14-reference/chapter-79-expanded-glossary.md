@@ -1,5 +1,7 @@
 # Chapter 79: Expanded Glossary
 
+*DevOps Handbook — Pages 459–472 of this PDF edition*
+
 Two hundred DevOps, SRE, platform, and cloud-native terms with **precise** definitions as used in this handbook. Alphabetized. Cross-references use *italics*.
 
 If a vendor uses a word differently, the handbook meaning still applies in exams and runbooks.

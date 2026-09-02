@@ -1,5 +1,7 @@
 # Chapter 80: Capstone — 12-Week Production-Like Platform Lab
 
+*DevOps Handbook — Pages 473–481 of this PDF edition*
+
 This capstone is a **week-by-week build** of a production-shaped platform: AWS-like networking, Kubernetes, GitOps, observability, identity, and a small business app with SLOs. It is the practice counterpart to Chapter 59’s design-only capstone. You will operate what you build: break it, page yourself, and write the postmortem.
 
 **Scenario: ShopStream lab.** A checkout API, a catalog API, Postgres, and a worker that writes orders to a queue. One “platform team” (you) and one “app team” (also you, wearing a different hat).

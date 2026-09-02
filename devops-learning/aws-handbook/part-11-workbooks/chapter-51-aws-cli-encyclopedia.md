@@ -1,5 +1,7 @@
 # Chapter 51: AWS CLI Encyclopedia
 
+*AWS Handbook — Pages 282–292 of this PDF edition*
+
 This chapter is a field manual of **100+ AWS CLI recipes** grouped by service. Commands assume AWS CLI v2, a configured profile, and that you replace placeholders (`111122223333`, `us-east-1`, resource IDs). Prefer `--output table` or `--query` when learning; use JSON in scripts.
 
 Set these once per shell:

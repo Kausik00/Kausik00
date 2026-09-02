@@ -1,5 +1,7 @@
 # Chapter 77: Practice Exam — Fundamentals
 
+*DevOps Handbook — Pages 441–449 of this PDF edition*
+
 Fifty multiple-choice questions on Linux, Git, and CI fundamentals. Choose **one best answer** unless noted. Explanations follow each question so this chapter is a study guide, not just an answer key.
 
 Suggested protocol: 90 minutes, closed book, then review every miss. A pass mark for this handbook: **40/50**. Wrong-and-understood is more valuable than guessed-right.

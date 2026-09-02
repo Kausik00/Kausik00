@@ -1,6 +1,6 @@
 # Chapter 35: CloudWatch — Metrics, Alarms, and Dashboards
 
-*AWS Handbook — Pages 178–180 of this PDF edition*
+*AWS Handbook — Pages 179–181 of this PDF edition*
 ---
 
 ## 35.1 Amazon CloudWatch overview

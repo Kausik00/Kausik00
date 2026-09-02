@@ -1,5 +1,7 @@
 # Chapter 75: Incident Runbooks
 
+*DevOps Handbook — Pages 427–434 of this PDF edition*
+
 A runbook is a **decision procedure** you can follow at 03:00 with a noisy pager and a half-awake brain. This chapter defines severities, communication templates, and operational runbooks for CPU saturation, latency, Kubernetes control-plane/node issues, data loss, and security incidents.
 
 If a step is missing evidence, skip to mitigation. Debugging without a rollback plan is how incidents become outages.

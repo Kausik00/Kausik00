@@ -1,6 +1,6 @@
 # Chapter 39: KMS, Secrets Manager, and ACM
 
-*AWS Handbook — Pages 196–201 of this PDF edition*
+*AWS Handbook — Pages 197–202 of this PDF edition*
 ---
 
 ## 39.1 Encryption and certificate management

@@ -1,6 +1,6 @@
 # DevOps Handbook — Complete Edition
 
-**This edition:** 298 numbered PDF pages (matches the page numbers in this file).
+**This edition:** 481 numbered PDF pages (matches the page numbers in this file).
 
 Beginner → Advanced. Every chapter is included.
 
@@ -9,7 +9,7 @@ Companion: [AWS Handbook](../aws-handbook/00-table-of-contents.md)
 Page numbers in this index match the page number printed at the bottom of each PDF page.
 They are measured from this edition, not estimates.
 
-**Total pages: 298**
+**Total pages: 481**
 
 ## Part I — Introduction & Mindset (Pages 6–19)
 
@@ -131,7 +131,37 @@ They are measured from this edition, not estimates.
 | 59 | Capstone — End-to-End Production System Design | 287–292 |
 | 60 | Appendix — Cheatsheets, Glossary, and Index | 293–298 |
 
+## Part XIII — Production Workbooks (Pages 299–380)
+
+| Ch | Title | Pages |
+|----|-------|-------|
+| 61 | Linux Production Troubleshooting Cookbook | 299–308 |
+| 62 | Networking Packet Labs | 309–316 |
+| 63 | Git Disaster Recovery | 317–324 |
+| 64 | Terraform Production Patterns | 325–332 |
+| 65 | Ansible at Scale | 333–340 |
+| 66 | Kubernetes Troubleshooting | 341–348 |
+| 67 | Production CI/CD Patterns | 349–356 |
+| 68 | SLO Observability Practice | 357–364 |
+| 69 | DevSecOps Cookbook | 365–372 |
+| 70 | Platform Blueprints | 373–380 |
+
+## Part XIV — Reference, Exams, and Capstone Labs (Pages 381–481)
+
+| Ch | Title | Pages |
+|----|-------|-------|
+| 71 | DevOps Interview Questions | 381–391 |
+| 72 | Linux Command Encyclopedia | 392–402 |
+| 73 | Kubernetes YAML Catalog | 403–415 |
+| 74 | Terraform Module Catalog | 416–426 |
+| 75 | Incident Runbooks | 427–434 |
+| 76 | Production Case Studies | 435–440 |
+| 77 | Practice Exam — Fundamentals | 441–449 |
+| 78 | Practice Exam — Advanced | 450–458 |
+| 79 | Expanded Glossary | 459–472 |
+| 80 | Capstone — 12-Week Production-Like Platform Lab | 473–481 |
+
 ## Edition total
 
-This PDF contains **60 chapters** across **298 pages**.
+This PDF contains **80 chapters** across **481 pages**.
 

@@ -1,5 +1,7 @@
 # Chapter 69: DevSecOps Cookbook
 
+*DevOps Handbook — Pages 365–372 of this PDF edition*
+
 *DevOps Handbook — Workbook*
 ---
 

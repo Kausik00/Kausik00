@@ -1,5 +1,7 @@
 # Chapter 54: Disaster Recovery Runbooks
 
+*AWS Handbook — Pages 316–324 of this PDF edition*
+
 Disaster recovery (DR) is not a checkbox on a Well-Architected review. It is a set of **runbooks** that named humans (or fully automated pipelines) execute under time pressure, plus evidence from drills that those runbooks meet Recovery Point Objective (RPO) and Recovery Time Objective (RTO). Chapter 23 introduced backup primitives. Chapter 27 covered database-centric DR. This chapter is the operational catalog: backup design, failover patterns, communication, and RPO/RTO drills you can schedule like game days.
 
 ---

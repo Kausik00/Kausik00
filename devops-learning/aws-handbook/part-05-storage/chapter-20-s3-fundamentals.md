@@ -1,6 +1,6 @@
 # Chapter 20: S3 — Buckets, Objects, Versioning, and Lifecycle
 
-*AWS Handbook — Pages 93–95 of this PDF edition*
+*AWS Handbook — Pages 94–96 of this PDF edition*
 ---
 
 ## 20.1 Amazon S3 overview

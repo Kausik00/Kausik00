@@ -1,5 +1,7 @@
 # Chapter 61: AWS Interview Questions (80 Q&A)
 
+*AWS Handbook — Pages 379–385 of this PDF edition*
+
 This chapter is **80 interview questions** with answers you can speak in 60–120 seconds, then deepen if the interviewer asks. They mix SAA, DOP, networking, security, and architecture. There are no trick "gotcha only" items without an explanation.
 
 **How to practice:** cover the answer, speak aloud, then read. Interviews reward structure: **requirement → options → pick → trade-off → failure mode.**

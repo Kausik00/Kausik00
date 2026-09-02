@@ -1,6 +1,6 @@
 # Chapter 34: Systems Manager & Parameter Store
 
-*AWS Handbook — Pages 172–177 of this PDF edition*
+*AWS Handbook — Pages 173–178 of this PDF edition*
 ---
 
 ## 34.1 AWS Systems Manager overview

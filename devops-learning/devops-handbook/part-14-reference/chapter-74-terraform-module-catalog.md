@@ -1,5 +1,7 @@
 # Chapter 74: Terraform Module Catalog
 
+*DevOps Handbook — Pages 416–426 of this PDF edition*
+
 This chapter is a catalog of **complete, callable Terraform modules** in the style you would use for a production AWS landing: VPC, EKS, RDS, and the root module that wires them. The code is teaching-grade—trimmed of every brand-specific quirk, but complete enough to show interfaces, versioning, and calling patterns.
 
 Principles for every module here:

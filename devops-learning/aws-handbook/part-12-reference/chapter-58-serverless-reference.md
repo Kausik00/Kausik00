@@ -1,5 +1,7 @@
 # Chapter 58: Serverless Reference — API Gateway, Lambda, DynamoDB, EventBridge, SAM
 
+*AWS Handbook — Pages 354–362 of this PDF edition*
+
 This chapter is a single-stop **serverless reference** for architects who already met the services in Parts IV, VI, and VII. It emphasizes integration contracts, failure modes, SAM/CDK packaging, and labs that produce a working API with events — not another "Hello World" that ignores IAM and retries.
 
 Serverless on AWS in production is rarely "just Lambda." It is an **event topology**: API Gateway or Function URLs in front, DynamoDB or Aurora as state, EventBridge/SQS/SNS as glue, IAM as the real network, and observability as the only way to debug a system with no SSH.

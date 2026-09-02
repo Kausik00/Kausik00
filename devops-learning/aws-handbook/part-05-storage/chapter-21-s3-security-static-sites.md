@@ -1,6 +1,6 @@
 # Chapter 21: S3 Security, Encryption, and Static Websites
 
-*AWS Handbook — Pages 96–101 of this PDF edition*
+*AWS Handbook — Pages 97–102 of this PDF edition*
 ---
 
 ## 21.1 S3 security model

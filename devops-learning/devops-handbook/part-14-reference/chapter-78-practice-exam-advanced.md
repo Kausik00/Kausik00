@@ -1,5 +1,7 @@
 # Chapter 78: Practice Exam — Advanced
 
+*DevOps Handbook — Pages 450–458 of this PDF edition*
+
 Fifty multiple-choice questions covering Kubernetes, Terraform, SRE, and security. One best answer each. Explanations are part of the study material.
 
 Pass guideline: **38/50** without notes. If you score high on Kubernetes but fail OIDC/IAM items, you are not “secure enough to operate prod.”
